@@ -1,0 +1,1947 @@
+
+id: https://example.org/isrp_project_3
+name: ISRP_Project_3
+version: 0.1.0
+description: >-
+  DataHarmonizer schema generated from ISRP Project 3 data dictionary with
+  batch/sample metadata and 209 PCB congener columns (wide form).
+prefixes:
+  linkml: https://w3id.org/linkml/
+  xsd: http://www.w3.org/2001/XMLSchema#
+default_curi_maps:
+  - semweb_context
+default_prefix: isrp3
+imports:
+  - linkml:types
+
+types:
+  WhitespaceMinimizedString:
+    name: WhitespaceMinimizedString
+    typeof: string
+    base: str
+    uri: xsd:token
+    description: >-
+      A string that has all whitespace trimmed off of beginning and end,
+      and internal whitespace collapsed to single spaces.
+
+classes:
+  dh_interface:
+    name: dh_interface
+    description: A DataHarmonizer interface (sheet)
+
+  isrp_project_3:
+    name: isrp_project_3
+    description: One row per sample; includes PCB congener columns 1..209 (wide form)
+    is_a: dh_interface
+    tree_root: true
+    slots:
+      - bid
+      - sid
+      - sampletype
+      - room
+      - materials
+      - school
+      - PCB1
+      - PCB2
+      - PCB3
+      - PCB4
+      - PCB5
+      - PCB6
+      - PCB7
+      - PCB8
+      - PCB9
+      - PCB10
+      - PCB11
+      - PCB12.13
+      - PCB14
+      - PCB15
+      - PCB16
+      - PCB17
+      - PCB18.30
+      - PCB19
+      - PCB20.28
+      - PCB21.33
+      - PCB22
+      - PCB23
+      - PCB24
+      - PCB25
+      - PCB26.29
+      - PCB27
+      - PCB31
+      - PCB32
+      - PCB33
+      - PCB34
+      - PCB35
+      - PCB36
+      - PCB37
+      - PCB38
+      - PCB39
+      - PCB40.71
+      - PCB41
+      - PCB42
+      - PCB43
+      - PCB44.47.65
+      - PCB45
+      - PCB46
+      - PCB48
+      - PCB49.69
+      - PCB50.53
+      - PCB51
+      - PCB52
+      - PCB54
+      - PCB55
+      - PCB56
+      - PCB57
+      - PCB58
+      - PCB59.62.75
+      - PCB60
+      - PCB61.70.74.76
+      - PCB63
+      - PCB64
+      - PCB66
+      - PCB67
+      - PCB68
+      - PCB72
+      - PCB73
+      - PCB77
+      - PCB78
+      - PCB79
+      - PCB80
+      - PCB81
+      - PCB82
+      - PCB85.116
+      - PCB86.97.109.119
+      - PCB87.125
+      - PCB88
+      - PCB89
+      - PCB90.101.113
+      - PCB91
+      - PCB92
+      - PCB93.100
+      - PCB94
+      - PCB95
+      - PCB96
+      - PCB98
+      - PCB99
+      - PCB102
+      - PCB103
+      - PCB104
+      - PCB105
+      - PCB106
+      - PCB107
+      - PCB108.124
+      - PCB110
+      - PCB111
+      - PCB112
+      - PCB113
+      - PCB114
+      - PCB115
+      - PCB117
+      - PCB118
+      - PCB120
+      - PCB121
+      - PCB122
+      - PCB123
+      - PCB126
+      - PCB127
+      - PCB128.166
+      - PCB129.138.163
+      - PCB130
+      - PCB131
+      - PCB132
+      - PCB133
+      - PCB134
+      - PCB135.151
+      - PCB136
+      - PCB137
+      - PCB139.140
+      - PCB141
+      - PCB142
+      - PCB143
+      - PCB144
+      - PCB145
+      - PCB146
+      - PCB147.149
+      - PCB148
+      - PCB150
+      - PCB152
+      - PCB153.168
+      - PCB154
+      - PCB155
+      - PCB156.157
+      - PCB158
+      - PCB159
+      - PCB160
+      - PCB161
+      - PCB162
+      - PCB164
+      - PCB165
+      - PCB167
+      - PCB169
+      - PCB170
+      - PCB171.173
+      - PCB172
+      - PCB174
+      - PCB175
+      - PCB176
+      - PCB177
+      - PCB178
+      - PCB179
+      - PCB180.193
+      - PCB181
+      - PCB182
+      - PCB183
+      - PCB184
+      - PCB185
+      - PCB186
+      - PCB187
+      - PCB188
+      - PCB189
+      - PCB190
+      - PCB191
+      - PCB192
+      - PCB194
+      - PCB195
+      - PCB196
+      - PCB197
+      - PCB198.199
+      - PCB200
+      - PCB201
+      - PCB202
+      - PCB203
+      - PCB204
+      - PCB205
+      - PCB206
+      - PCB207
+      - PCB208
+      - PCB209
+
+
+    unique_keys:
+      sid_unique:
+        unique_key_name: sid_unique
+        unique_key_slots: [sid]
+
+slots:
+  bid:
+    name: bid
+    title: batch_ID
+    description: unique batch ID
+    range: WhitespaceMinimizedString
+    required: true
+
+  sid:
+    name: sid
+    title: sample_ID
+    description: unique sample ID
+    range: WhitespaceMinimizedString
+    required: true
+
+  sampletype:
+    name: sampletype
+    title: sample type
+    description: air or emission sampler
+    range: SampleTypeMenu
+    required: false
+
+  room:
+    name: room
+    title: room
+    description: room name or number
+    range: WhitespaceMinimizedString
+    required: false
+
+  materials:
+    name: materials
+    title: materials
+    description: specific material or surface sampled
+    range: WhitespaceMinimizedString
+    required: false
+
+  school:
+    name: school
+    title: school
+    description: school name
+    range: WhitespaceMinimizedString
+    required: false
+
+  PCB1:
+    name: PCB1
+    title: "PCB1"
+    description: pcb congener 1
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB2:
+    name: PCB2
+    title: "PCB2"
+    description: pcb congener 2
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB3:
+    name: PCB3
+    title: "PCB3"
+    description: pcb congener 3
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB4:
+    name: PCB4
+    title: "PCB4"
+    description: pcb congener 4
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB5:
+    name: PCB5
+    title: "PCB5"
+    description: pcb congener 5
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB6:
+    name: PCB6
+    title: "PCB6"
+    description: pcb congener 6
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB7:
+    name: PCB7
+    title: "PCB7"
+    description: pcb congener 7
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB8:
+    name: PCB8
+    title: "PCB8"
+    description: pcb congener 8
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB9:
+    name: PCB9
+    title: "PCB9"
+    description: pcb congener 9
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB10:
+    name: PCB10
+    title: "PCB10"
+    description: pcb congener 10
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB11:
+    name: PCB11
+    title: "PCB11"
+    description: pcb congener 11
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB12.13:
+    name: PCB12.13
+    title: "PCB12.13"
+    description: mass of individual or coeluting PCB congeners accumulated in XXX
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB13:
+    name: PCB13
+    title: "PCB13"
+    description: pcb congener 13
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB14:
+    name: PCB14
+    title: "PCB14"
+    description: pcb congener 14
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB15:
+    name: PCB15
+    title: "PCB15"
+    description: pcb congener 15
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB16:
+    name: PCB16
+    title: "PCB16"
+    description: pcb congener 16
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB17:
+    name: PCB17
+    title: "PCB17"
+    description: pcb congener 17
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB18.30:
+    name: PCB18.30
+    title: "PCB18.30"
+    description: pcb congener 18
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB19:
+    name: PCB19
+    title: "PCB19"
+    description: pcb congener 19
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB20:
+    name: PCB20
+    title: "PCB20"
+    description: pcb congener 20
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB21:
+    name: PCB21
+    title: "PCB21"
+    description: pcb congener 21
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB22:
+    name: PCB22
+    title: "PCB22"
+    description: pcb congener 22
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB23:
+    name: PCB23
+    title: "PCB23"
+    description: pcb congener 23
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB24:
+    name: PCB24
+    title: "PCB24"
+    description: pcb congener 24
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB25:
+    name: PCB25
+    title: "PCB25"
+    description: pcb congener 25
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB26:
+    name: PCB26
+    title: "PCB26"
+    description: pcb congener 26
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB27:
+    name: PCB27
+    title: "PCB27"
+    description: pcb congener 27
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB28:
+    name: PCB28
+    title: "PCB28"
+    description: pcb congener 28
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB29:
+    name: PCB29
+    title: "PCB29"
+    description: pcb congener 29
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB30:
+    name: PCB30
+    title: "PCB30"
+    description: pcb congener 30
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB31:
+    name: PCB31
+    title: "PCB31"
+    description: pcb congener 31
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB32:
+    name: PCB32
+    title: "PCB32"
+    description: pcb congener 32
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB33:
+    name: PCB33
+    title: "PCB33"
+    description: pcb congener 33
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB34:
+    name: PCB34
+    title: "PCB34"
+    description: pcb congener 34
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB35:
+    name: PCB35
+    title: "PCB35"
+    description: pcb congener 35
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB36:
+    name: PCB36
+    title: "PCB36"
+    description: pcb congener 36
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB37:
+    name: PCB37
+    title: "PCB37"
+    description: pcb congener 37
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB38:
+    name: PCB38
+    title: "PCB38"
+    description: pcb congener 38
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB39:
+    name: PCB39
+    title: "PCB39"
+    description: pcb congener 39
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB40:
+    name: PCB40
+    title: "PCB40"
+    description: pcb congener 40
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB41:
+    name: PCB41
+    title: "PCB41"
+    description: pcb congener 41
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB42:
+    name: PCB42
+    title: "PCB42"
+    description: pcb congener 42
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB43:
+    name: PCB43
+    title: "PCB43"
+    description: pcb congener 43
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB44:
+    name: PCB44
+    title: "PCB44"
+    description: pcb congener 44
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB45:
+    name: PCB45
+    title: "PCB45"
+    description: pcb congener 45
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB46:
+    name: PCB46
+    title: "PCB46"
+    description: pcb congener 46
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB47:
+    name: PCB47
+    title: "PCB47"
+    description: pcb congener 47
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB48:
+    name: PCB48
+    title: "PCB48"
+    description: pcb congener 48
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB49:
+    name: PCB49
+    title: "PCB49"
+    description: pcb congener 49
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB50:
+    name: PCB50
+    title: "PCB50"
+    description: pcb congener 50
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB51:
+    name: PCB51
+    title: "PCB51"
+    description: pcb congener 51
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB52:
+    name: PCB52
+    title: "PCB52"
+    description: pcb congener 52
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB53:
+    name: PCB53
+    title: "PCB53"
+    description: pcb congener 53
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB54:
+    name: PCB54
+    title: "PCB54"
+    description: pcb congener 54
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB55:
+    name: PCB55
+    title: "PCB55"
+    description: pcb congener 55
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB56:
+    name: PCB56
+    title: "PCB56"
+    description: pcb congener 56
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB57:
+    name: PCB57
+    title: "PCB57"
+    description: pcb congener 57
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB58:
+    name: PCB58
+    title: "PCB58"
+    description: pcb congener 58
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB59:
+    name: PCB59
+    title: "PCB59"
+    description: pcb congener 59
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB60:
+    name: PCB60
+    title: "PCB60"
+    description: pcb congener 60
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB61:
+    name: PCB61
+    title: "PCB61"
+    description: pcb congener 61
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB62:
+    name: PCB62
+    title: "PCB62"
+    description: pcb congener 62
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB63:
+    name: PCB63
+    title: "PCB63"
+    description: pcb congener 63
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB64:
+    name: PCB64
+    title: "PCB64"
+    description: pcb congener 64
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB65:
+    name: PCB65
+    title: "PCB65"
+    description: pcb congener 65
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB66:
+    name: PCB66
+    title: "PCB66"
+    description: pcb congener 66
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB67:
+    name: PCB67
+    title: "PCB67"
+    description: pcb congener 67
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB68:
+    name: PCB68
+    title: "PCB68"
+    description: pcb congener 68
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB69:
+    name: PCB69
+    title: "PCB69"
+    description: pcb congener 69
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB70:
+    name: PCB70
+    title: "PCB70"
+    description: pcb congener 70
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB71:
+    name: PCB71
+    title: "PCB71"
+    description: pcb congener 71
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB72:
+    name: PCB72
+    title: "PCB72"
+    description: pcb congener 72
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB73:
+    name: PCB73
+    title: "PCB73"
+    description: pcb congener 73
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB74:
+    name: PCB74
+    title: "PCB74"
+    description: pcb congener 74
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB75:
+    name: PCB75
+    title: "PCB75"
+    description: pcb congener 75
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB76:
+    name: PCB76
+    title: "PCB76"
+    description: pcb congener 76
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB77:
+    name: PCB77
+    title: "PCB77"
+    description: pcb congener 77
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB78:
+    name: PCB78
+    title: "PCB78"
+    description: pcb congener 78
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB79:
+    name: PCB79
+    title: "PCB79"
+    description: pcb congener 79
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB80:
+    name: PCB80
+    title: "PCB80"
+    description: pcb congener 80
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB81:
+    name: PCB81
+    title: "PCB81"
+    description: pcb congener 81
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB82:
+    name: PCB82
+    title: "PCB82"
+    description: pcb congener 82
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB83:
+    name: PCB83
+    title: "PCB83"
+    description: pcb congener 83
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB84:
+    name: PCB84
+    title: "PCB84"
+    description: pcb congener 84
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB85:
+    name: PCB85
+    title: "PCB85"
+    description: pcb congener 85
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB86:
+    name: PCB86
+    title: "PCB86"
+    description: pcb congener 86
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB87:
+    name: PCB87
+    title: "PCB87"
+    description: pcb congener 87
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB88:
+    name: PCB88
+    title: "PCB88"
+    description: pcb congener 88
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB89:
+    name: PCB89
+    title: "PCB89"
+    description: pcb congener 89
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB90:
+    name: PCB90
+    title: "PCB90"
+    description: pcb congener 90
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB91:
+    name: PCB91
+    title: "PCB91"
+    description: pcb congener 91
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB92:
+    name: PCB92
+    title: "PCB92"
+    description: pcb congener 92
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB93:
+    name: PCB93
+    title: "PCB93"
+    description: pcb congener 93
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB94:
+    name: PCB94
+    title: "PCB94"
+    description: pcb congener 94
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB95:
+    name: PCB95
+    title: "PCB95"
+    description: pcb congener 95
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB96:
+    name: PCB96
+    title: "PCB96"
+    description: pcb congener 96
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB97:
+    name: PCB97
+    title: "PCB97"
+    description: pcb congener 97
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB98:
+    name: PCB98
+    title: "PCB98"
+    description: pcb congener 98
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB99:
+    name: PCB99
+    title: "PCB99"
+    description: pcb congener 99
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB100:
+    name: PCB100
+    title: "PCB100"
+    description: pcb congener 100
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB101:
+    name: PCB101
+    title: "PCB101"
+    description: pcb congener 101
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_102:
+    name: PCB_102
+    title: "102"
+    description: pcb congener 102
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_103:
+    name: PCB_103
+    title: "103"
+    description: pcb congener 103
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_104:
+    name: PCB_104
+    title: "104"
+    description: pcb congener 104
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_105:
+    name: PCB_105
+    title: "105"
+    description: pcb congener 105
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_106:
+    name: PCB_106
+    title: "106"
+    description: pcb congener 106
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_107:
+    name: PCB_107
+    title: "107"
+    description: pcb congener 107
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_108:
+    name: PCB_108
+    title: "108"
+    description: pcb congener 108
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_109:
+    name: PCB_109
+    title: "109"
+    description: pcb congener 109
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_110:
+    name: PCB_110
+    title: "110"
+    description: pcb congener 110
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_111:
+    name: PCB_111
+    title: "111"
+    description: pcb congener 111
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_112:
+    name: PCB_112
+    title: "112"
+    description: pcb congener 112
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_113:
+    name: PCB_113
+    title: "113"
+    description: pcb congener 113
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_114:
+    name: PCB_114
+    title: "114"
+    description: pcb congener 114
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_115:
+    name: PCB_115
+    title: "115"
+    description: pcb congener 115
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_116:
+    name: PCB_116
+    title: "116"
+    description: pcb congener 116
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_117:
+    name: PCB_117
+    title: "117"
+    description: pcb congener 117
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_118:
+    name: PCB_118
+    title: "118"
+    description: pcb congener 118
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_119:
+    name: PCB_119
+    title: "119"
+    description: pcb congener 119
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_120:
+    name: PCB_120
+    title: "120"
+    description: pcb congener 120
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_121:
+    name: PCB_121
+    title: "121"
+    description: pcb congener 121
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_122:
+    name: PCB_122
+    title: "122"
+    description: pcb congener 122
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_123:
+    name: PCB_123
+    title: "123"
+    description: pcb congener 123
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_124:
+    name: PCB_124
+    title: "124"
+    description: pcb congener 124
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_125:
+    name: PCB_125
+    title: "125"
+    description: pcb congener 125
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_126:
+    name: PCB_126
+    title: "126"
+    description: pcb congener 126
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_127:
+    name: PCB_127
+    title: "127"
+    description: pcb congener 127
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_128:
+    name: PCB_128
+    title: "128"
+    description: pcb congener 128
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_129:
+    name: PCB_129
+    title: "129"
+    description: pcb congener 129
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_130:
+    name: PCB_130
+    title: "130"
+    description: pcb congener 130
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_131:
+    name: PCB_131
+    title: "131"
+    description: pcb congener 131
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_132:
+    name: PCB_132
+    title: "132"
+    description: pcb congener 132
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_133:
+    name: PCB_133
+    title: "133"
+    description: pcb congener 133
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_134:
+    name: PCB_134
+    title: "134"
+    description: pcb congener 134
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_135:
+    name: PCB_135
+    title: "135"
+    description: pcb congener 135
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_136:
+    name: PCB_136
+    title: "136"
+    description: pcb congener 136
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_137:
+    name: PCB_137
+    title: "137"
+    description: pcb congener 137
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_138:
+    name: PCB_138
+    title: "138"
+    description: pcb congener 138
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_139:
+    name: PCB_139
+    title: "139"
+    description: pcb congener 139
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_140:
+    name: PCB_140
+    title: "140"
+    description: pcb congener 140
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_141:
+    name: PCB_141
+    title: "141"
+    description: pcb congener 141
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_142:
+    name: PCB_142
+    title: "142"
+    description: pcb congener 142
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_143:
+    name: PCB_143
+    title: "143"
+    description: pcb congener 143
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_144:
+    name: PCB_144
+    title: "144"
+    description: pcb congener 144
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_145:
+    name: PCB_145
+    title: "145"
+    description: pcb congener 145
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_146:
+    name: PCB_146
+    title: "146"
+    description: pcb congener 146
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_147:
+    name: PCB_147
+    title: "147"
+    description: pcb congener 147
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_148:
+    name: PCB_148
+    title: "148"
+    description: pcb congener 148
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_149:
+    name: PCB_149
+    title: "149"
+    description: pcb congener 149
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_150:
+    name: PCB_150
+    title: "150"
+    description: pcb congener 150
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_151:
+    name: PCB_151
+    title: "151"
+    description: pcb congener 151
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_152:
+    name: PCB_152
+    title: "152"
+    description: pcb congener 152
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_153:
+    name: PCB_153
+    title: "153"
+    description: pcb congener 153
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_154:
+    name: PCB_154
+    title: "154"
+    description: pcb congener 154
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_155:
+    name: PCB_155
+    title: "155"
+    description: pcb congener 155
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_156:
+    name: PCB_156
+    title: "156"
+    description: pcb congener 156
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_157:
+    name: PCB_157
+    title: "157"
+    description: pcb congener 157
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_158:
+    name: PCB_158
+    title: "158"
+    description: pcb congener 158
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_159:
+    name: PCB_159
+    title: "159"
+    description: pcb congener 159
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_160:
+    name: PCB_160
+    title: "160"
+    description: pcb congener 160
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_161:
+    name: PCB_161
+    title: "161"
+    description: pcb congener 161
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_162:
+    name: PCB_162
+    title: "162"
+    description: pcb congener 162
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_163:
+    name: PCB_163
+    title: "163"
+    description: pcb congener 163
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_164:
+    name: PCB_164
+    title: "164"
+    description: pcb congener 164
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_165:
+    name: PCB_165
+    title: "165"
+    description: pcb congener 165
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_166:
+    name: PCB_166
+    title: "166"
+    description: pcb congener 166
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_167:
+    name: PCB_167
+    title: "167"
+    description: pcb congener 167
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_168:
+    name: PCB_168
+    title: "168"
+    description: pcb congener 168
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_169:
+    name: PCB_169
+    title: "169"
+    description: pcb congener 169
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_170:
+    name: PCB_170
+    title: "170"
+    description: pcb congener 170
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_171:
+    name: PCB_171
+    title: "171"
+    description: pcb congener 171
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_172:
+    name: PCB_172
+    title: "172"
+    description: pcb congener 172
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_173:
+    name: PCB_173
+    title: "173"
+    description: pcb congener 173
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_174:
+    name: PCB_174
+    title: "174"
+    description: pcb congener 174
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_175:
+    name: PCB_175
+    title: "175"
+    description: pcb congener 175
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_176:
+    name: PCB_176
+    title: "176"
+    description: pcb congener 176
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_177:
+    name: PCB_177
+    title: "177"
+    description: pcb congener 177
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_178:
+    name: PCB_178
+    title: "178"
+    description: pcb congener 178
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_179:
+    name: PCB_179
+    title: "179"
+    description: pcb congener 179
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_180:
+    name: PCB_180
+    title: "180"
+    description: pcb congener 180
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_181:
+    name: PCB_181
+    title: "181"
+    description: pcb congener 181
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_182:
+    name: PCB_182
+    title: "182"
+    description: pcb congener 182
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_183:
+    name: PCB_183
+    title: "183"
+    description: pcb congener 183
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_184:
+    name: PCB_184
+    title: "184"
+    description: pcb congener 184
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_185:
+    name: PCB_185
+    title: "185"
+    description: pcb congener 185
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_186:
+    name: PCB_186
+    title: "186"
+    description: pcb congener 186
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_187:
+    name: PCB_187
+    title: "187"
+    description: pcb congener 187
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_188:
+    name: PCB_188
+    title: "188"
+    description: pcb congener 188
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_189:
+    name: PCB_189
+    title: "189"
+    description: pcb congener 189
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_190:
+    name: PCB_190
+    title: "190"
+    description: pcb congener 190
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_191:
+    name: PCB_191
+    title: "191"
+    description: pcb congener 191
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_192:
+    name: PCB_192
+    title: "192"
+    description: pcb congener 192
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_193:
+    name: PCB_193
+    title: "193"
+    description: pcb congener 193
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_194:
+    name: PCB_194
+    title: "194"
+    description: pcb congener 194
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_195:
+    name: PCB_195
+    title: "195"
+    description: pcb congener 195
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_196:
+    name: PCB_196
+    title: "196"
+    description: pcb congener 196
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_197:
+    name: PCB_197
+    title: "197"
+    description: pcb congener 197
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_198:
+    name: PCB_198
+    title: "198"
+    description: pcb congener 198
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_199:
+    name: PCB_199
+    title: "199"
+    description: pcb congener 199
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_200:
+    name: PCB_200
+    title: "200"
+    description: pcb congener 200
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_201:
+    name: PCB_201
+    title: "201"
+    description: pcb congener 201
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_202:
+    name: PCB_202
+    title: "202"
+    description: pcb congener 202
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_203:
+    name: PCB_203
+    title: "203"
+    description: pcb congener 203
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_204:
+    name: PCB_204
+    title: "204"
+    description: pcb congener 204
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_205:
+    name: PCB_205
+    title: "205"
+    description: pcb congener 205
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_206:
+    name: PCB_206
+    title: "206"
+    description: pcb congener 206
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_207:
+    name: PCB_207
+    title: "207"
+    description: pcb congener 207
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_208:
+    name: PCB_208
+    title: "208"
+    description: pcb congener 208
+    range: float
+    required: false
+    minimum_value: 0
+
+  PCB_209:
+    name: PCB_209
+    title: "209"
+    description: pcb congener 209
+    range: float
+    required: false
+    minimum_value: 0
+
+
+enums:
+  SampleTypeMenu:
+    name: SampleTypeMenu
+    description: Allowed sample types
+    permissible_values:
+      air: {}
+      "emission sampler": {}
