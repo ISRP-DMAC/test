@@ -425,9 +425,9 @@ slots:
     required: false
     minimum_value: 0
 
-  PCB21:
-    name: PCB21
-    title: "PCB21"
+  PCB21.23:
+    name: PCB21.23
+    title: "PCB21.23"
     description: pcb congener 21
     range: float
     required: false
