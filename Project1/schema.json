@@ -1086,10 +1086,10 @@
       "range": "WhitespaceMinimizedString",
       "required": false
     },
-    "PCB_1": {
-      "name": "PCB_1",
+    "PCB1": {
+      "name": "PCB1",
       "description": "pcb congener 1",
-      "title": "1",
+      "title": "PCB1",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1098,10 +1098,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_2": {
-      "name": "PCB_2",
+    "PCB2": {
+      "name": "PCB2",
       "description": "pcb congener 2",
-      "title": "2",
+      "title": "PCB2",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1110,10 +1110,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_3": {
-      "name": "PCB_3",
+    "PCB3": {
+      "name": "PCB3",
       "description": "pcb congener 3",
-      "title": "3",
+      "title": "PCB3",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1122,10 +1122,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_4": {
-      "name": "PCB_4",
+    "PCB4": {
+      "name": "PCB4",
       "description": "pcb congener 4",
-      "title": "4",
+      "title": "PCB4",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1134,10 +1134,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_5": {
-      "name": "PCB_5",
+    "PCB5": {
+      "name": "PCB5",
       "description": "pcb congener 5",
-      "title": "5",
+      "title": "PCB5",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1146,10 +1146,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_6": {
-      "name": "PCB_6",
+    "PCB6": {
+      "name": "PCB6",
       "description": "pcb congener 6",
-      "title": "6",
+      "title": "PCB6",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1158,10 +1158,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_7": {
-      "name": "PCB_7",
+    "PCB7": {
+      "name": "PCB7",
       "description": "pcb congener 7",
-      "title": "7",
+      "title": "PCB7",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1170,10 +1170,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_8": {
-      "name": "PCB_8",
+    "PCB8": {
+      "name": "PCB8",
       "description": "pcb congener 8",
-      "title": "8",
+      "title": "PCB8",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1182,10 +1182,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_9": {
-      "name": "PCB_9",
+    "PCB9": {
+      "name": "PCB9",
       "description": "pcb congener 9",
-      "title": "9",
+      "title": "PCB9",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1194,10 +1194,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_10": {
-      "name": "PCB_10",
+    "PCB10": {
+      "name": "PCB10",
       "description": "pcb congener 10",
-      "title": "10",
+      "title": "PCB10",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1206,10 +1206,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_11": {
-      "name": "PCB_11",
+    "PCB11": {
+      "name": "PCB11",
       "description": "pcb congener 11",
-      "title": "11",
+      "title": "PCB11",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1218,10 +1218,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_12": {
-      "name": "PCB_12",
+    "PCB12": {
+      "name": "PCB12",
       "description": "pcb congener 12",
-      "title": "12",
+      "title": "PCB12",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1230,10 +1230,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_13": {
-      "name": "PCB_13",
+    "PCB13": {
+      "name": "PCB13",
       "description": "pcb congener 13",
-      "title": "13",
+      "title": "PCB13",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1242,10 +1242,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_14": {
-      "name": "PCB_14",
+    "PCB14": {
+      "name": "PCB14",
       "description": "pcb congener 14",
-      "title": "14",
+      "title": "PCB14",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1254,10 +1254,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_15": {
-      "name": "PCB_15",
+    "PCB15": {
+      "name": "PCB15",
       "description": "pcb congener 15",
-      "title": "15",
+      "title": "PCB15",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1266,10 +1266,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_16": {
-      "name": "PCB_16",
+    "PCB16": {
+      "name": "PCB16",
       "description": "pcb congener 16",
-      "title": "16",
+      "title": "PCB16",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1278,10 +1278,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_17": {
-      "name": "PCB_17",
+    "PCB17": {
+      "name": "PCB17",
       "description": "pcb congener 17",
-      "title": "17",
+      "title": "PCB17",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1290,10 +1290,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_18": {
-      "name": "PCB_18",
+    "PCB18": {
+      "name": "PCB18",
       "description": "pcb congener 18",
-      "title": "18",
+      "title": "PCB18",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1302,10 +1302,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_19": {
-      "name": "PCB_19",
+    "PCB19": {
+      "name": "PCB19",
       "description": "pcb congener 19",
-      "title": "19",
+      "title": "PCB19",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1314,10 +1314,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_20": {
-      "name": "PCB_20",
+    "PCB20": {
+      "name": "PCB20",
       "description": "pcb congener 20",
-      "title": "20",
+      "title": "PCB20",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1326,10 +1326,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_21": {
-      "name": "PCB_21",
+    "PCB21": {
+      "name": "PCB21",
       "description": "pcb congener 21",
-      "title": "21",
+      "title": "PCB21",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1338,10 +1338,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_22": {
-      "name": "PCB_22",
+    "PCB22": {
+      "name": "PCB22",
       "description": "pcb congener 22",
-      "title": "22",
+      "title": "PCB22",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1350,10 +1350,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_23": {
-      "name": "PCB_23",
+    "PCB23": {
+      "name": "PCB23",
       "description": "pcb congener 23",
-      "title": "23",
+      "title": "PCB23",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1362,10 +1362,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_24": {
-      "name": "PCB_24",
+    "PCB24": {
+      "name": "PCB24",
       "description": "pcb congener 24",
-      "title": "24",
+      "title": "PCB24",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1374,10 +1374,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_25": {
-      "name": "PCB_25",
+    "PCB25": {
+      "name": "PCB25",
       "description": "pcb congener 25",
-      "title": "25",
+      "title": "PCB25",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1386,10 +1386,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_26": {
-      "name": "PCB_26",
+    "PCB26": {
+      "name": "PCB26",
       "description": "pcb congener 26",
-      "title": "26",
+      "title": "PCB26",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1398,10 +1398,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_27": {
-      "name": "PCB_27",
+    "PCB27": {
+      "name": "PCB27",
       "description": "pcb congener 27",
-      "title": "27",
+      "title": "PCB27",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1410,10 +1410,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_28": {
-      "name": "PCB_28",
+    "PCB28": {
+      "name": "PCB28",
       "description": "pcb congener 28",
-      "title": "28",
+      "title": "PCB28",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1422,10 +1422,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_29": {
-      "name": "PCB_29",
+    "PCB29": {
+      "name": "PCB29",
       "description": "pcb congener 29",
-      "title": "29",
+      "title": "PCB29",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1434,10 +1434,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_30": {
-      "name": "PCB_30",
+    "PCB30": {
+      "name": "PCB30",
       "description": "pcb congener 30",
-      "title": "30",
+      "title": "PCB30",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1446,10 +1446,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_31": {
-      "name": "PCB_31",
+    "PCB31": {
+      "name": "PCB31",
       "description": "pcb congener 31",
-      "title": "31",
+      "title": "PCB31",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1458,10 +1458,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_32": {
-      "name": "PCB_32",
+    "PCB32": {
+      "name": "PCB32",
       "description": "pcb congener 32",
-      "title": "32",
+      "title": "PCB32",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1470,10 +1470,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_33": {
-      "name": "PCB_33",
+    "PCB33": {
+      "name": "PCB33",
       "description": "pcb congener 33",
-      "title": "33",
+      "title": "PCB33",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1482,10 +1482,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_34": {
-      "name": "PCB_34",
+    "PCB34": {
+      "name": "PCB34",
       "description": "pcb congener 34",
-      "title": "34",
+      "title": "PCB34",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1494,10 +1494,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_35": {
-      "name": "PCB_35",
+    "PCB35": {
+      "name": "PCB35",
       "description": "pcb congener 35",
-      "title": "35",
+      "title": "PCB35",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1506,10 +1506,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_36": {
-      "name": "PCB_36",
+    "PCB36": {
+      "name": "PCB36",
       "description": "pcb congener 36",
-      "title": "36",
+      "title": "PCB36",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1518,10 +1518,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_37": {
-      "name": "PCB_37",
+    "PCB37": {
+      "name": "PCB37",
       "description": "pcb congener 37",
-      "title": "37",
+      "title": "PCB37",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1530,10 +1530,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_38": {
-      "name": "PCB_38",
+    "PCB38": {
+      "name": "PCB38",
       "description": "pcb congener 38",
-      "title": "38",
+      "title": "PCB38",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1542,10 +1542,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_39": {
-      "name": "PCB_39",
+    "PCB39": {
+      "name": "PCB39",
       "description": "pcb congener 39",
-      "title": "39",
+      "title": "PCB39",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1554,10 +1554,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_40": {
-      "name": "PCB_40",
+    "PCB40": {
+      "name": "PCB40",
       "description": "pcb congener 40",
-      "title": "40",
+      "title": "PCB40",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1566,10 +1566,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_41": {
-      "name": "PCB_41",
+    "PCB41": {
+      "name": "PCB41",
       "description": "pcb congener 41",
-      "title": "41",
+      "title": "PCB41",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1578,10 +1578,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_42": {
-      "name": "PCB_42",
+    "PCB42": {
+      "name": "PCB42",
       "description": "pcb congener 42",
-      "title": "42",
+      "title": "PCB42",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1590,10 +1590,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_43": {
-      "name": "PCB_43",
+    "PCB43": {
+      "name": "PCB43",
       "description": "pcb congener 43",
-      "title": "43",
+      "title": "PCB43",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1602,10 +1602,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_44": {
-      "name": "PCB_44",
+    "PCB44": {
+      "name": "PCB44",
       "description": "pcb congener 44",
-      "title": "44",
+      "title": "PCB44",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1614,10 +1614,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_45": {
-      "name": "PCB_45",
+    "PCB45": {
+      "name": "PCB45",
       "description": "pcb congener 45",
-      "title": "45",
+      "title": "PCB45",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1626,10 +1626,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_46": {
-      "name": "PCB_46",
+    "PCB46": {
+      "name": "PCB46",
       "description": "pcb congener 46",
-      "title": "46",
+      "title": "PCB46",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1638,10 +1638,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_47": {
-      "name": "PCB_47",
+    "PCB47": {
+      "name": "PCB47",
       "description": "pcb congener 47",
-      "title": "47",
+      "title": "PCB47",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1650,10 +1650,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_48": {
-      "name": "PCB_48",
+    "PCB48": {
+      "name": "PCB48",
       "description": "pcb congener 48",
-      "title": "48",
+      "title": "PCB48",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1662,10 +1662,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_49": {
-      "name": "PCB_49",
+    "PCB49": {
+      "name": "PCB49",
       "description": "pcb congener 49",
-      "title": "49",
+      "title": "PCB49",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1674,10 +1674,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_50": {
-      "name": "PCB_50",
+    "PCB50": {
+      "name": "PCB50",
       "description": "pcb congener 50",
-      "title": "50",
+      "title": "PCB50",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1686,10 +1686,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_51": {
-      "name": "PCB_51",
+    "PCB51": {
+      "name": "PCB51",
       "description": "pcb congener 51",
-      "title": "51",
+      "title": "PCB51",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1698,10 +1698,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_52": {
-      "name": "PCB_52",
+    "PCB52": {
+      "name": "PCB52",
       "description": "pcb congener 52",
-      "title": "52",
+      "title": "PCB52",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1710,10 +1710,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_53": {
-      "name": "PCB_53",
+    "PCB53": {
+      "name": "PCB53",
       "description": "pcb congener 53",
-      "title": "53",
+      "title": "PCB53",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1722,10 +1722,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_54": {
-      "name": "PCB_54",
+    "PCB54": {
+      "name": "PCB54",
       "description": "pcb congener 54",
-      "title": "54",
+      "title": "PCB54",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1734,10 +1734,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_55": {
-      "name": "PCB_55",
+    "PCB55": {
+      "name": "PCB55",
       "description": "pcb congener 55",
-      "title": "55",
+      "title": "PCB55",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1746,10 +1746,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_56": {
-      "name": "PCB_56",
+    "PCB56": {
+      "name": "PCB56",
       "description": "pcb congener 56",
-      "title": "56",
+      "title": "PCB56",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1758,10 +1758,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_57": {
-      "name": "PCB_57",
+    "PCB57": {
+      "name": "PCB57",
       "description": "pcb congener 57",
-      "title": "57",
+      "title": "PCB57",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1770,10 +1770,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_58": {
-      "name": "PCB_58",
+    "PCB58": {
+      "name": "PCB58",
       "description": "pcb congener 58",
-      "title": "58",
+      "title": "PCB58",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1782,10 +1782,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_59": {
-      "name": "PCB_59",
+    "PCB59": {
+      "name": "PCB59",
       "description": "pcb congener 59",
-      "title": "59",
+      "title": "PCB59",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1794,10 +1794,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_60": {
-      "name": "PCB_60",
+    "PCB60": {
+      "name": "PCB60",
       "description": "pcb congener 60",
-      "title": "60",
+      "title": "PCB60",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1806,10 +1806,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_61": {
-      "name": "PCB_61",
+    "PCB61": {
+      "name": "PCB61",
       "description": "pcb congener 61",
-      "title": "61",
+      "title": "PCB61",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1818,10 +1818,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_62": {
-      "name": "PCB_62",
+    "PCB62": {
+      "name": "PCB62",
       "description": "pcb congener 62",
-      "title": "62",
+      "title": "PCB62",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1830,10 +1830,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_63": {
-      "name": "PCB_63",
+    "PCB63": {
+      "name": "PCB63",
       "description": "pcb congener 63",
-      "title": "63",
+      "title": "PCB63",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1842,10 +1842,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_64": {
-      "name": "PCB_64",
+    "PCB64": {
+      "name": "PCB64",
       "description": "pcb congener 64",
-      "title": "64",
+      "title": "PCB64",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1854,10 +1854,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_65": {
-      "name": "PCB_65",
+    "PCB65": {
+      "name": "PCB65",
       "description": "pcb congener 65",
-      "title": "65",
+      "title": "PCB65",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1866,10 +1866,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_66": {
-      "name": "PCB_66",
+    "PCB66": {
+      "name": "PCB66",
       "description": "pcb congener 66",
-      "title": "66",
+      "title": "PCB66",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1878,10 +1878,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_67": {
-      "name": "PCB_67",
+    "PCB67": {
+      "name": "PCB67",
       "description": "pcb congener 67",
-      "title": "67",
+      "title": "PCB67",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1890,10 +1890,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_68": {
-      "name": "PCB_68",
+    "PCB68": {
+      "name": "PCB68",
       "description": "pcb congener 68",
-      "title": "68",
+      "title": "PCB68",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1902,10 +1902,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_69": {
-      "name": "PCB_69",
+    "PCB69": {
+      "name": "PCB69",
       "description": "pcb congener 69",
-      "title": "69",
+      "title": "PCB69",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1914,10 +1914,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_70": {
-      "name": "PCB_70",
+    "PCB70": {
+      "name": "PCB70",
       "description": "pcb congener 70",
-      "title": "70",
+      "title": "PCB70",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1926,10 +1926,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_71": {
-      "name": "PCB_71",
+    "PCB71": {
+      "name": "PCB71",
       "description": "pcb congener 71",
-      "title": "71",
+      "title": "PCB71",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1938,10 +1938,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_72": {
-      "name": "PCB_72",
+    "PCB72": {
+      "name": "PCB72",
       "description": "pcb congener 72",
-      "title": "72",
+      "title": "PCB72",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1950,10 +1950,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_73": {
-      "name": "PCB_73",
+    "PCB73": {
+      "name": "PCB73",
       "description": "pcb congener 73",
-      "title": "73",
+      "title": "PCB73",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1962,10 +1962,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_74": {
-      "name": "PCB_74",
+    "PCB74": {
+      "name": "PCB74",
       "description": "pcb congener 74",
-      "title": "74",
+      "title": "PCB74",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1974,10 +1974,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_75": {
-      "name": "PCB_75",
+    "PCB75": {
+      "name": "PCB75",
       "description": "pcb congener 75",
-      "title": "75",
+      "title": "PCB75",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1986,10 +1986,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_76": {
-      "name": "PCB_76",
+    "PCB76": {
+      "name": "PCB76",
       "description": "pcb congener 76",
-      "title": "76",
+      "title": "PCB76",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -1998,10 +1998,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_77": {
-      "name": "PCB_77",
+    "PCB77": {
+      "name": "PCB77",
       "description": "pcb congener 77",
-      "title": "77",
+      "title": "PCB77",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2010,10 +2010,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_78": {
-      "name": "PCB_78",
+    "PCB78": {
+      "name": "PCB78",
       "description": "pcb congener 78",
-      "title": "78",
+      "title": "PCB78",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2022,10 +2022,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_79": {
-      "name": "PCB_79",
+    "PCB79": {
+      "name": "PCB79",
       "description": "pcb congener 79",
-      "title": "79",
+      "title": "PCB79",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2034,10 +2034,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_80": {
-      "name": "PCB_80",
+    "PCB80": {
+      "name": "PCB80",
       "description": "pcb congener 80",
-      "title": "80",
+      "title": "PCB80",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2046,10 +2046,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_81": {
-      "name": "PCB_81",
+    "PCB81": {
+      "name": "PCB81",
       "description": "pcb congener 81",
-      "title": "81",
+      "title": "PCB81",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2058,10 +2058,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_82": {
-      "name": "PCB_82",
+    "PCB82": {
+      "name": "PCB82",
       "description": "pcb congener 82",
-      "title": "82",
+      "title": "PCB82",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2070,10 +2070,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_83": {
-      "name": "PCB_83",
+    "PCB83": {
+      "name": "PCB83",
       "description": "pcb congener 83",
-      "title": "83",
+      "title": "PCB83",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2082,10 +2082,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_84": {
-      "name": "PCB_84",
+    "PCB84": {
+      "name": "PCB84",
       "description": "pcb congener 84",
-      "title": "84",
+      "title": "PCB84",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2094,10 +2094,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_85": {
-      "name": "PCB_85",
+    "PCB85": {
+      "name": "PCB85",
       "description": "pcb congener 85",
-      "title": "85",
+      "title": "PCB85",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2106,10 +2106,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_86": {
-      "name": "PCB_86",
+    "PCB86": {
+      "name": "PCB86",
       "description": "pcb congener 86",
-      "title": "86",
+      "title": "PCB86",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2118,10 +2118,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_87": {
-      "name": "PCB_87",
+    "PCB87": {
+      "name": "PCB87",
       "description": "pcb congener 87",
-      "title": "87",
+      "title": "PCB87",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2130,10 +2130,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_88": {
-      "name": "PCB_88",
+    "PCB88": {
+      "name": "PCB88",
       "description": "pcb congener 88",
-      "title": "88",
+      "title": "PCB88",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2142,10 +2142,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_89": {
-      "name": "PCB_89",
+    "PCB89": {
+      "name": "PCB89",
       "description": "pcb congener 89",
-      "title": "89",
+      "title": "PCB89",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2154,10 +2154,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_90": {
-      "name": "PCB_90",
+    "PCB90": {
+      "name": "PCB90",
       "description": "pcb congener 90",
-      "title": "90",
+      "title": "PCB90",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2166,10 +2166,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_91": {
-      "name": "PCB_91",
+    "PCB91": {
+      "name": "PCB91",
       "description": "pcb congener 91",
-      "title": "91",
+      "title": "PCB91",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2178,10 +2178,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_92": {
-      "name": "PCB_92",
+    "PCB92": {
+      "name": "PCB92",
       "description": "pcb congener 92",
-      "title": "92",
+      "title": "PCB92",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2190,10 +2190,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_93": {
-      "name": "PCB_93",
+    "PCB93": {
+      "name": "PCB93",
       "description": "pcb congener 93",
-      "title": "93",
+      "title": "PCB93",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2202,10 +2202,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_94": {
-      "name": "PCB_94",
+    "PCB94": {
+      "name": "PCB94",
       "description": "pcb congener 94",
-      "title": "94",
+      "title": "PCB94",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2214,10 +2214,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_95": {
-      "name": "PCB_95",
+    "PCB95": {
+      "name": "PCB95",
       "description": "pcb congener 95",
-      "title": "95",
+      "title": "PCB95",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2226,10 +2226,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_96": {
-      "name": "PCB_96",
+    "PCB96": {
+      "name": "PCB96",
       "description": "pcb congener 96",
-      "title": "96",
+      "title": "PCB96",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2238,10 +2238,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_97": {
-      "name": "PCB_97",
+    "PCB97": {
+      "name": "PCB97",
       "description": "pcb congener 97",
-      "title": "97",
+      "title": "PCB97",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2250,10 +2250,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_98": {
-      "name": "PCB_98",
+    "PCB98": {
+      "name": "PCB98",
       "description": "pcb congener 98",
-      "title": "98",
+      "title": "PCB98",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2262,10 +2262,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_99": {
-      "name": "PCB_99",
+    "PCB99": {
+      "name": "PCB99",
       "description": "pcb congener 99",
-      "title": "99",
+      "title": "PCB99",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2274,10 +2274,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_100": {
-      "name": "PCB_100",
+    "PCB100": {
+      "name": "PCB100",
       "description": "pcb congener 100",
-      "title": "100",
+      "title": "PCB100",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2286,10 +2286,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_101": {
-      "name": "PCB_101",
+    "PCB101": {
+      "name": "PCB101",
       "description": "pcb congener 101",
-      "title": "101",
+      "title": "PCB101",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2298,10 +2298,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_102": {
-      "name": "PCB_102",
+    "PCB102": {
+      "name": "PCB102",
       "description": "pcb congener 102",
-      "title": "102",
+      "title": "PCB102",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2310,10 +2310,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_103": {
-      "name": "PCB_103",
+    "PCB103": {
+      "name": "PCB103",
       "description": "pcb congener 103",
-      "title": "103",
+      "title": "PCB103",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2322,10 +2322,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_104": {
-      "name": "PCB_104",
+    "PCB104": {
+      "name": "PCB104",
       "description": "pcb congener 104",
-      "title": "104",
+      "title": "PCB104",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2334,10 +2334,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_105": {
-      "name": "PCB_105",
+    "PCB105": {
+      "name": "PCB105",
       "description": "pcb congener 105",
-      "title": "105",
+      "title": "PCB105",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2346,10 +2346,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_106": {
-      "name": "PCB_106",
+    "PCB106": {
+      "name": "PCB106",
       "description": "pcb congener 106",
-      "title": "106",
+      "title": "PCB106",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2358,10 +2358,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_107": {
-      "name": "PCB_107",
+    "PCB107": {
+      "name": "PCB107",
       "description": "pcb congener 107",
-      "title": "107",
+      "title": "PCB107",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2370,10 +2370,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_108": {
-      "name": "PCB_108",
+    "PCB108": {
+      "name": "PCB108",
       "description": "pcb congener 108",
-      "title": "108",
+      "title": "PCB108",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2382,10 +2382,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_109": {
-      "name": "PCB_109",
+    "PCB109": {
+      "name": "PCB109",
       "description": "pcb congener 109",
-      "title": "109",
+      "title": "PCB109",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2394,10 +2394,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_110": {
-      "name": "PCB_110",
+    "PCB110": {
+      "name": "PCB110",
       "description": "pcb congener 110",
-      "title": "110",
+      "title": "PCB110",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2406,10 +2406,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_111": {
-      "name": "PCB_111",
+    "PCB111": {
+      "name": "PCB111",
       "description": "pcb congener 111",
-      "title": "111",
+      "title": "PCB111",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2418,10 +2418,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_112": {
-      "name": "PCB_112",
+    "PCB112": {
+      "name": "PCB112",
       "description": "pcb congener 112",
-      "title": "112",
+      "title": "PCB112",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2430,10 +2430,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_113": {
-      "name": "PCB_113",
+    "PCB113": {
+      "name": "PCB113",
       "description": "pcb congener 113",
-      "title": "113",
+      "title": "PCB113",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2442,10 +2442,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_114": {
-      "name": "PCB_114",
+    "PCB114": {
+      "name": "PCB114",
       "description": "pcb congener 114",
-      "title": "114",
+      "title": "PCB114",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2454,10 +2454,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_115": {
-      "name": "PCB_115",
+    "PCB115": {
+      "name": "PCB115",
       "description": "pcb congener 115",
-      "title": "115",
+      "title": "PCB115",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2466,10 +2466,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_116": {
-      "name": "PCB_116",
+    "PCB116": {
+      "name": "PCB116",
       "description": "pcb congener 116",
-      "title": "116",
+      "title": "PCB116",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2478,10 +2478,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_117": {
-      "name": "PCB_117",
+    "PCB117": {
+      "name": "PCB117",
       "description": "pcb congener 117",
-      "title": "117",
+      "title": "PCB117",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2490,10 +2490,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_118": {
-      "name": "PCB_118",
+    "PCB118": {
+      "name": "PCB118",
       "description": "pcb congener 118",
-      "title": "118",
+      "title": "PCB118",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2502,10 +2502,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_119": {
-      "name": "PCB_119",
+    "PCB119": {
+      "name": "PCB119",
       "description": "pcb congener 119",
-      "title": "119",
+      "title": "PCB119",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2514,10 +2514,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_120": {
-      "name": "PCB_120",
+    "PCB120": {
+      "name": "PCB120",
       "description": "pcb congener 120",
-      "title": "120",
+      "title": "PCB120",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2526,10 +2526,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_121": {
-      "name": "PCB_121",
+    "PCB121": {
+      "name": "PCB121",
       "description": "pcb congener 121",
-      "title": "121",
+      "title": "PCB121",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2538,10 +2538,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_122": {
-      "name": "PCB_122",
+    "PCB122": {
+      "name": "PCB122",
       "description": "pcb congener 122",
-      "title": "122",
+      "title": "PCB122",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2550,10 +2550,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_123": {
-      "name": "PCB_123",
+    "PCB123": {
+      "name": "PCB123",
       "description": "pcb congener 123",
-      "title": "123",
+      "title": "PCB123",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2562,10 +2562,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_124": {
-      "name": "PCB_124",
+    "PCB124": {
+      "name": "PCB124",
       "description": "pcb congener 124",
-      "title": "124",
+      "title": "PCB124",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2574,10 +2574,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_125": {
-      "name": "PCB_125",
+    "PCB125": {
+      "name": "PCB125",
       "description": "pcb congener 125",
-      "title": "125",
+      "title": "PCB125",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2586,10 +2586,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_126": {
-      "name": "PCB_126",
+    "PCB126": {
+      "name": "PCB126",
       "description": "pcb congener 126",
-      "title": "126",
+      "title": "PCB126",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2598,10 +2598,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_127": {
-      "name": "PCB_127",
+    "PCB127": {
+      "name": "PCB127",
       "description": "pcb congener 127",
-      "title": "127",
+      "title": "PCB127",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2610,10 +2610,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_128": {
-      "name": "PCB_128",
+    "PCB128": {
+      "name": "PCB128",
       "description": "pcb congener 128",
-      "title": "128",
+      "title": "PCB128",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2622,10 +2622,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_129": {
-      "name": "PCB_129",
+    "PCB129": {
+      "name": "PCB129",
       "description": "pcb congener 129",
-      "title": "129",
+      "title": "PCB129",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2634,10 +2634,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_130": {
-      "name": "PCB_130",
+    "PCB130": {
+      "name": "PCB130",
       "description": "pcb congener 130",
-      "title": "130",
+      "title": "PCB130",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2646,10 +2646,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_131": {
-      "name": "PCB_131",
+    "PCB131": {
+      "name": "PCB131",
       "description": "pcb congener 131",
-      "title": "131",
+      "title": "PCB131",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2658,10 +2658,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_132": {
-      "name": "PCB_132",
+    "PCB132": {
+      "name": "PCB132",
       "description": "pcb congener 132",
-      "title": "132",
+      "title": "PCB132",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2670,10 +2670,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_133": {
-      "name": "PCB_133",
+    "PCB133": {
+      "name": "PCB133",
       "description": "pcb congener 133",
-      "title": "133",
+      "title": "PCB133",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2682,10 +2682,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_134": {
-      "name": "PCB_134",
+    "PCB134": {
+      "name": "PCB134",
       "description": "pcb congener 134",
-      "title": "134",
+      "title": "PCB134",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2694,10 +2694,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_135": {
-      "name": "PCB_135",
+    "PCB135": {
+      "name": "PCB135",
       "description": "pcb congener 135",
-      "title": "135",
+      "title": "PCB135",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2706,10 +2706,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_136": {
-      "name": "PCB_136",
+    "PCB136": {
+      "name": "PCB136",
       "description": "pcb congener 136",
-      "title": "136",
+      "title": "PCB136",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2718,10 +2718,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_137": {
-      "name": "PCB_137",
+    "PCB137": {
+      "name": "PCB137",
       "description": "pcb congener 137",
-      "title": "137",
+      "title": "PCB137",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2730,10 +2730,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_138": {
-      "name": "PCB_138",
+    "PCB138": {
+      "name": "PCB138",
       "description": "pcb congener 138",
-      "title": "138",
+      "title": "PCB138",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2742,10 +2742,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_139": {
-      "name": "PCB_139",
+    "PCB139": {
+      "name": "PCB139",
       "description": "pcb congener 139",
-      "title": "139",
+      "title": "PCB139",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2754,10 +2754,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_140": {
-      "name": "PCB_140",
+    "PCB140": {
+      "name": "PCB140",
       "description": "pcb congener 140",
-      "title": "140",
+      "title": "PCB140",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2766,10 +2766,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_141": {
-      "name": "PCB_141",
+    "PCB141": {
+      "name": "PCB141",
       "description": "pcb congener 141",
-      "title": "141",
+      "title": "PCB141",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2778,10 +2778,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_142": {
-      "name": "PCB_142",
+    "PCB142": {
+      "name": "PCB142",
       "description": "pcb congener 142",
-      "title": "142",
+      "title": "PCB142",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2790,10 +2790,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_143": {
-      "name": "PCB_143",
+    "PCB143": {
+      "name": "PCB143",
       "description": "pcb congener 143",
-      "title": "143",
+      "title": "PCB143",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2802,10 +2802,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_144": {
-      "name": "PCB_144",
+    "PCB144": {
+      "name": "PCB144",
       "description": "pcb congener 144",
-      "title": "144",
+      "title": "PCB144",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2814,10 +2814,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_145": {
-      "name": "PCB_145",
+    "PCB145": {
+      "name": "PCB145",
       "description": "pcb congener 145",
-      "title": "145",
+      "title": "PCB145",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2826,10 +2826,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_146": {
-      "name": "PCB_146",
+    "PCB146": {
+      "name": "PCB146",
       "description": "pcb congener 146",
-      "title": "146",
+      "title": "PCB146",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2838,10 +2838,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_147": {
-      "name": "PCB_147",
+    "PCB147": {
+      "name": "PCB147",
       "description": "pcb congener 147",
-      "title": "147",
+      "title": "PCB147",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2850,10 +2850,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_148": {
-      "name": "PCB_148",
+    "PCB148": {
+      "name": "PCB148",
       "description": "pcb congener 148",
-      "title": "148",
+      "title": "PCB148",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2862,10 +2862,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_149": {
-      "name": "PCB_149",
+    "PCB149": {
+      "name": "PCB149",
       "description": "pcb congener 149",
-      "title": "149",
+      "title": "PCB149",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2874,10 +2874,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_150": {
-      "name": "PCB_150",
+    "PCB150": {
+      "name": "PCB150",
       "description": "pcb congener 150",
-      "title": "150",
+      "title": "PCB150",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2886,10 +2886,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_151": {
-      "name": "PCB_151",
+    "PCB151": {
+      "name": "PCB151",
       "description": "pcb congener 151",
-      "title": "151",
+      "title": "PCB151",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2898,10 +2898,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_152": {
-      "name": "PCB_152",
+    "PCB152": {
+      "name": "PCB152",
       "description": "pcb congener 152",
-      "title": "152",
+      "title": "PCB152",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2910,10 +2910,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_153": {
-      "name": "PCB_153",
+    "PCB153": {
+      "name": "PCB153",
       "description": "pcb congener 153",
-      "title": "153",
+      "title": "PCB153",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2922,10 +2922,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_154": {
-      "name": "PCB_154",
+    "PCB154": {
+      "name": "PCB154",
       "description": "pcb congener 154",
-      "title": "154",
+      "title": "PCB154",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2934,10 +2934,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_155": {
-      "name": "PCB_155",
+    "PCB155": {
+      "name": "PCB155",
       "description": "pcb congener 155",
-      "title": "155",
+      "title": "PCB155",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2946,10 +2946,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_156": {
-      "name": "PCB_156",
+    "PCB156": {
+      "name": "PCB156",
       "description": "pcb congener 156",
-      "title": "156",
+      "title": "PCB156",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2958,10 +2958,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_157": {
-      "name": "PCB_157",
+    "PCB157": {
+      "name": "PCB157",
       "description": "pcb congener 157",
-      "title": "157",
+      "title": "PCB157",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2970,10 +2970,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_158": {
-      "name": "PCB_158",
+    "PCB158": {
+      "name": "PCB158",
       "description": "pcb congener 158",
-      "title": "158",
+      "title": "PCB158",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2982,10 +2982,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_159": {
-      "name": "PCB_159",
+    "PCB159": {
+      "name": "PCB159",
       "description": "pcb congener 159",
-      "title": "159",
+      "title": "PCB159",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -2994,10 +2994,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_160": {
-      "name": "PCB_160",
+    "PCB160": {
+      "name": "PCB160",
       "description": "pcb congener 160",
-      "title": "160",
+      "title": "PCB160",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3006,10 +3006,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_161": {
-      "name": "PCB_161",
+    "PCB161": {
+      "name": "PCB161",
       "description": "pcb congener 161",
-      "title": "161",
+      "title": "PCB161",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3018,10 +3018,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_162": {
-      "name": "PCB_162",
+    "PCB162": {
+      "name": "PCB162",
       "description": "pcb congener 162",
-      "title": "162",
+      "title": "PCB162",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3030,10 +3030,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_163": {
-      "name": "PCB_163",
+    "PCB163": {
+      "name": "PCB163",
       "description": "pcb congener 163",
-      "title": "163",
+      "title": "PCB163",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3042,10 +3042,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_164": {
-      "name": "PCB_164",
+    "PCB164": {
+      "name": "PCB164",
       "description": "pcb congener 164",
-      "title": "164",
+      "title": "PCB164",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3054,10 +3054,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_165": {
-      "name": "PCB_165",
+    "PCB165": {
+      "name": "PCB165",
       "description": "pcb congener 165",
-      "title": "165",
+      "title": "PCB165",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3066,10 +3066,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_166": {
-      "name": "PCB_166",
+    "PCB166": {
+      "name": "PCB166",
       "description": "pcb congener 166",
-      "title": "166",
+      "title": "PCB166",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3078,10 +3078,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_167": {
-      "name": "PCB_167",
+    "PCB167": {
+      "name": "PCB167",
       "description": "pcb congener 167",
-      "title": "167",
+      "title": "PCB167",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3090,10 +3090,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_168": {
-      "name": "PCB_168",
+    "PCB168": {
+      "name": "PCB168",
       "description": "pcb congener 168",
-      "title": "168",
+      "title": "PCB168",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3102,10 +3102,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_169": {
-      "name": "PCB_169",
+    "PCB169": {
+      "name": "PCB169",
       "description": "pcb congener 169",
-      "title": "169",
+      "title": "PCB169",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3114,10 +3114,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_170": {
-      "name": "PCB_170",
+    "PCB170": {
+      "name": "PCB170",
       "description": "pcb congener 170",
-      "title": "170",
+      "title": "PCB170",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3126,10 +3126,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_171": {
-      "name": "PCB_171",
+    "PCB171": {
+      "name": "PCB171",
       "description": "pcb congener 171",
-      "title": "171",
+      "title": "PCB171",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3138,10 +3138,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_172": {
-      "name": "PCB_172",
+    "PCB172": {
+      "name": "PCB172",
       "description": "pcb congener 172",
-      "title": "172",
+      "title": "PCB172",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3150,10 +3150,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_173": {
-      "name": "PCB_173",
+    "PCB173": {
+      "name": "PCB173",
       "description": "pcb congener 173",
-      "title": "173",
+      "title": "PCB173",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3162,10 +3162,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_174": {
-      "name": "PCB_174",
+    "PCB174": {
+      "name": "PCB174",
       "description": "pcb congener 174",
-      "title": "174",
+      "title": "PCB174",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3174,10 +3174,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_175": {
-      "name": "PCB_175",
+    "PCB175": {
+      "name": "PCB175",
       "description": "pcb congener 175",
-      "title": "175",
+      "title": "PCB175",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3186,10 +3186,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_176": {
-      "name": "PCB_176",
+    "PCB176": {
+      "name": "PCB176",
       "description": "pcb congener 176",
-      "title": "176",
+      "title": "PCB176",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3198,10 +3198,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_177": {
-      "name": "PCB_177",
+    "PCB177": {
+      "name": "PCB177",
       "description": "pcb congener 177",
-      "title": "177",
+      "title": "PCB177",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3210,10 +3210,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_178": {
-      "name": "PCB_178",
+    "PCB178": {
+      "name": "PCB178",
       "description": "pcb congener 178",
-      "title": "178",
+      "title": "PCB178",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3222,10 +3222,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_179": {
-      "name": "PCB_179",
+    "PCB179": {
+      "name": "PCB179",
       "description": "pcb congener 179",
-      "title": "179",
+      "title": "PCB179",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3234,10 +3234,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_180": {
-      "name": "PCB_180",
+    "PCB180": {
+      "name": "PCB180",
       "description": "pcb congener 180",
-      "title": "180",
+      "title": "PCB180",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3246,10 +3246,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_181": {
-      "name": "PCB_181",
+    "PCB181": {
+      "name": "PCB181",
       "description": "pcb congener 181",
-      "title": "181",
+      "title": "PCB181",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3258,10 +3258,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_182": {
-      "name": "PCB_182",
+    "PCB182": {
+      "name": "PCB182",
       "description": "pcb congener 182",
-      "title": "182",
+      "title": "PCB182",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3270,10 +3270,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_183": {
-      "name": "PCB_183",
+    "PCB183": {
+      "name": "PCB183",
       "description": "pcb congener 183",
-      "title": "183",
+      "title": "PCB183",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3282,10 +3282,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_184": {
-      "name": "PCB_184",
+    "PCB184": {
+      "name": "PCB184",
       "description": "pcb congener 184",
-      "title": "184",
+      "title": "PCB184",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3294,10 +3294,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_185": {
-      "name": "PCB_185",
+    "PCB185": {
+      "name": "PCB185",
       "description": "pcb congener 185",
-      "title": "185",
+      "title": "PCB185",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3306,10 +3306,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_186": {
-      "name": "PCB_186",
+    "PCB186": {
+      "name": "PCB186",
       "description": "pcb congener 186",
-      "title": "186",
+      "title": "PCB186",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3318,10 +3318,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_187": {
-      "name": "PCB_187",
+    "PCB187": {
+      "name": "PCB187",
       "description": "pcb congener 187",
-      "title": "187",
+      "title": "PCB187",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3330,10 +3330,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_188": {
-      "name": "PCB_188",
+    "PCB188": {
+      "name": "PCB188",
       "description": "pcb congener 188",
-      "title": "188",
+      "title": "PCB188",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3342,10 +3342,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_189": {
-      "name": "PCB_189",
+    "PCB189": {
+      "name": "PCB189",
       "description": "pcb congener 189",
-      "title": "189",
+      "title": "PCB189",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3354,10 +3354,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_190": {
-      "name": "PCB_190",
+    "PCB190": {
+      "name": "PCB190",
       "description": "pcb congener 190",
-      "title": "190",
+      "title": "PCB190",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3366,10 +3366,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_191": {
-      "name": "PCB_191",
+    "PCB191": {
+      "name": "PCB191",
       "description": "pcb congener 191",
-      "title": "191",
+      "title": "PCB191",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3378,10 +3378,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_192": {
-      "name": "PCB_192",
+    "PCB192": {
+      "name": "PCB192",
       "description": "pcb congener 192",
-      "title": "192",
+      "title": "PCB192",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3390,10 +3390,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_193": {
-      "name": "PCB_193",
+    "PCB193": {
+      "name": "PCB193",
       "description": "pcb congener 193",
-      "title": "193",
+      "title": "PCB193",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3402,10 +3402,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_194": {
-      "name": "PCB_194",
+    "PCB194": {
+      "name": "PCB194",
       "description": "pcb congener 194",
-      "title": "194",
+      "title": "PCB194",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3414,10 +3414,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_195": {
-      "name": "PCB_195",
+    "PCB195": {
+      "name": "PCB195",
       "description": "pcb congener 195",
-      "title": "195",
+      "title": "PCB195",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3426,10 +3426,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_196": {
-      "name": "PCB_196",
+    "PCB196": {
+      "name": "PCB196",
       "description": "pcb congener 196",
-      "title": "196",
+      "title": "PCB196",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3438,10 +3438,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_197": {
-      "name": "PCB_197",
+    "PCB197": {
+      "name": "PCB197",
       "description": "pcb congener 197",
-      "title": "197",
+      "title": "PCB197",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3450,10 +3450,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_198": {
-      "name": "PCB_198",
+    "PCB198": {
+      "name": "PCB198",
       "description": "pcb congener 198",
-      "title": "198",
+      "title": "PCB198",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3462,10 +3462,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_199": {
-      "name": "PCB_199",
+    "PCB199": {
+      "name": "PCB199",
       "description": "pcb congener 199",
-      "title": "199",
+      "title": "PCB199",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3474,10 +3474,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_200": {
-      "name": "PCB_200",
+    "PCB200": {
+      "name": "PCB200",
       "description": "pcb congener 200",
-      "title": "200",
+      "title": "PCB200",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3486,10 +3486,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_201": {
-      "name": "PCB_201",
+    "PCB201": {
+      "name": "PCB201",
       "description": "pcb congener 201",
-      "title": "201",
+      "title": "PCB201",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3498,10 +3498,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_202": {
-      "name": "PCB_202",
+    "PCB202": {
+      "name": "PCB202",
       "description": "pcb congener 202",
-      "title": "202",
+      "title": "PCB202",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3510,10 +3510,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_203": {
-      "name": "PCB_203",
+    "PCB203": {
+      "name": "PCB203",
       "description": "pcb congener 203",
-      "title": "203",
+      "title": "PCB203",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3522,10 +3522,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_204": {
-      "name": "PCB_204",
+    "PCB204": {
+      "name": "PCB204",
       "description": "pcb congener 204",
-      "title": "204",
+      "title": "PCB204",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3534,10 +3534,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_205": {
-      "name": "PCB_205",
+    "PCB205": {
+      "name": "PCB205",
       "description": "pcb congener 205",
-      "title": "205",
+      "title": "PCB205",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3546,10 +3546,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_206": {
-      "name": "PCB_206",
+    "PCB206": {
+      "name": "PCB206",
       "description": "pcb congener 206",
-      "title": "206",
+      "title": "PCB206",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3558,10 +3558,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_207": {
-      "name": "PCB_207",
+    "PCB207": {
+      "name": "PCB207",
       "description": "pcb congener 207",
-      "title": "207",
+      "title": "PCB207",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3570,10 +3570,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_208": {
-      "name": "PCB_208",
+    "PCB208": {
+      "name": "PCB208",
       "description": "pcb congener 208",
-      "title": "208",
+      "title": "PCB208",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -3582,10 +3582,10 @@
       "required": false,
       "minimum_value": 0
     },
-    "PCB_209": {
-      "name": "PCB_209",
+    "PCB209": {
+      "name": "PCB209",
       "description": "pcb congener 209",
-      "title": "209",
+      "title": "PCB209",
       "from_schema": "https://example.org/Project1",
       "domain_of": [
         "Project1"
@@ -4365,12 +4365,12 @@
           "range": "WhitespaceMinimizedString",
           "required": false
         },
-        "PCB_1": {
-          "name": "PCB_1",
+        "PCB1": {
+          "name": "PCB1",
           "description": "pcb congener 1",
-          "title": "1",
+          "title": "PCB1",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_1",
+          "alias": "PCB1",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4379,12 +4379,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_2": {
-          "name": "PCB_2",
+        "PCB2": {
+          "name": "PCB2",
           "description": "pcb congener 2",
-          "title": "2",
+          "title": "PCB2",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_2",
+          "alias": "PCB2",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4393,12 +4393,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_3": {
-          "name": "PCB_3",
+        "PCB3": {
+          "name": "PCB3",
           "description": "pcb congener 3",
-          "title": "3",
+          "title": "PCB3",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_3",
+          "alias": "PCB3",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4407,12 +4407,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_4": {
-          "name": "PCB_4",
+        "PCB4": {
+          "name": "PCB4",
           "description": "pcb congener 4",
-          "title": "4",
+          "title": "PCB4",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_4",
+          "alias": "PCB4",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4421,12 +4421,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_5": {
-          "name": "PCB_5",
+        "PCB5": {
+          "name": "PCB5",
           "description": "pcb congener 5",
-          "title": "5",
+          "title": "PCB5",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_5",
+          "alias": "PCB5",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4435,12 +4435,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_6": {
-          "name": "PCB_6",
+        "PCB6": {
+          "name": "PCB6",
           "description": "pcb congener 6",
-          "title": "6",
+          "title": "PCB6",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_6",
+          "alias": "PCB6",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4449,12 +4449,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_7": {
-          "name": "PCB_7",
+        "PCB7": {
+          "name": "PCB7",
           "description": "pcb congener 7",
-          "title": "7",
+          "title": "PCB7",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_7",
+          "alias": "PCB7",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4463,12 +4463,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_8": {
-          "name": "PCB_8",
+        "PCB8": {
+          "name": "PCB8",
           "description": "pcb congener 8",
-          "title": "8",
+          "title": "PCB8",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_8",
+          "alias": "PCB8",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4477,12 +4477,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_9": {
-          "name": "PCB_9",
+        "PCB9": {
+          "name": "PCB9",
           "description": "pcb congener 9",
-          "title": "9",
+          "title": "PCB9",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_9",
+          "alias": "PCB9",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4491,12 +4491,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_10": {
-          "name": "PCB_10",
+        "PCB10": {
+          "name": "PCB10",
           "description": "pcb congener 10",
-          "title": "10",
+          "title": "PCB10",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_10",
+          "alias": "PCB10",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4505,12 +4505,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_11": {
-          "name": "PCB_11",
+        "PCB11": {
+          "name": "PCB11",
           "description": "pcb congener 11",
-          "title": "11",
+          "title": "PCB11",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_11",
+          "alias": "PCB11",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4519,12 +4519,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_12": {
-          "name": "PCB_12",
+        "PCB12": {
+          "name": "PCB12",
           "description": "pcb congener 12",
-          "title": "12",
+          "title": "PCB12",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_12",
+          "alias": "PCB12",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4533,12 +4533,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_13": {
-          "name": "PCB_13",
+        "PCB13": {
+          "name": "PCB13",
           "description": "pcb congener 13",
-          "title": "13",
+          "title": "PCB13",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_13",
+          "alias": "PCB13",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4547,12 +4547,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_14": {
-          "name": "PCB_14",
+        "PCB14": {
+          "name": "PCB14",
           "description": "pcb congener 14",
-          "title": "14",
+          "title": "PCB14",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_14",
+          "alias": "PCB14",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4561,12 +4561,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_15": {
-          "name": "PCB_15",
+        "PCB15": {
+          "name": "PCB15",
           "description": "pcb congener 15",
-          "title": "15",
+          "title": "PCB15",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_15",
+          "alias": "PCB15",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4575,12 +4575,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_16": {
-          "name": "PCB_16",
+        "PCB16": {
+          "name": "PCB16",
           "description": "pcb congener 16",
-          "title": "16",
+          "title": "PCB16",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_16",
+          "alias": "PCB16",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4589,12 +4589,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_17": {
-          "name": "PCB_17",
+        "PCB17": {
+          "name": "PCB17",
           "description": "pcb congener 17",
-          "title": "17",
+          "title": "PCB17",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_17",
+          "alias": "PCB17",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4603,12 +4603,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_18": {
-          "name": "PCB_18",
+        "PCB18": {
+          "name": "PCB18",
           "description": "pcb congener 18",
-          "title": "18",
+          "title": "PCB18",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_18",
+          "alias": "PCB18",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4617,12 +4617,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_19": {
-          "name": "PCB_19",
+        "PCB19": {
+          "name": "PCB19",
           "description": "pcb congener 19",
-          "title": "19",
+          "title": "PCB19",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_19",
+          "alias": "PCB19",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4631,12 +4631,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_20": {
-          "name": "PCB_20",
+        "PCB20": {
+          "name": "PCB20",
           "description": "pcb congener 20",
-          "title": "20",
+          "title": "PCB20",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_20",
+          "alias": "PCB20",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4645,12 +4645,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_21": {
-          "name": "PCB_21",
+        "PCB21": {
+          "name": "PCB21",
           "description": "pcb congener 21",
-          "title": "21",
+          "title": "PCB21",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_21",
+          "alias": "PCB21",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4659,12 +4659,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_22": {
-          "name": "PCB_22",
+        "PCB22": {
+          "name": "PCB22",
           "description": "pcb congener 22",
-          "title": "22",
+          "title": "PCB22",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_22",
+          "alias": "PCB22",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4673,12 +4673,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_23": {
-          "name": "PCB_23",
+        "PCB23": {
+          "name": "PCB23",
           "description": "pcb congener 23",
-          "title": "23",
+          "title": "PCB23",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_23",
+          "alias": "PCB23",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4687,12 +4687,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_24": {
-          "name": "PCB_24",
+        "PCB24": {
+          "name": "PCB24",
           "description": "pcb congener 24",
-          "title": "24",
+          "title": "PCB24",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_24",
+          "alias": "PCB24",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4701,12 +4701,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_25": {
-          "name": "PCB_25",
+        "PCB25": {
+          "name": "PCB25",
           "description": "pcb congener 25",
-          "title": "25",
+          "title": "PCB25",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_25",
+          "alias": "PCB25",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4715,12 +4715,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_26": {
-          "name": "PCB_26",
+        "PCB26": {
+          "name": "PCB26",
           "description": "pcb congener 26",
-          "title": "26",
+          "title": "PCB26",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_26",
+          "alias": "PCB26",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4729,12 +4729,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_27": {
-          "name": "PCB_27",
+        "PCB27": {
+          "name": "PCB27",
           "description": "pcb congener 27",
-          "title": "27",
+          "title": "PCB27",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_27",
+          "alias": "PCB27",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4743,12 +4743,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_28": {
-          "name": "PCB_28",
+        "PCB28": {
+          "name": "PCB28",
           "description": "pcb congener 28",
-          "title": "28",
+          "title": "PCB28",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_28",
+          "alias": "PCB28",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4757,12 +4757,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_29": {
-          "name": "PCB_29",
+        "PCB29": {
+          "name": "PCB29",
           "description": "pcb congener 29",
-          "title": "29",
+          "title": "PCB29",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_29",
+          "alias": "PCB29",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4771,12 +4771,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_30": {
-          "name": "PCB_30",
+        "PCB30": {
+          "name": "PCB30",
           "description": "pcb congener 30",
-          "title": "30",
+          "title": "PCB30",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_30",
+          "alias": "PCB30",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4785,12 +4785,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_31": {
-          "name": "PCB_31",
+        "PCB31": {
+          "name": "PCB31",
           "description": "pcb congener 31",
-          "title": "31",
+          "title": "PCB31",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_31",
+          "alias": "PCB31",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4799,12 +4799,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_32": {
-          "name": "PCB_32",
+        "PCB32": {
+          "name": "PCB32",
           "description": "pcb congener 32",
-          "title": "32",
+          "title": "PCB32",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_32",
+          "alias": "PCB32",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4813,12 +4813,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_33": {
-          "name": "PCB_33",
+        "PCB33": {
+          "name": "PCB33",
           "description": "pcb congener 33",
-          "title": "33",
+          "title": "PCB33",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_33",
+          "alias": "PCB33",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4827,12 +4827,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_34": {
-          "name": "PCB_34",
+        "PCB34": {
+          "name": "PCB34",
           "description": "pcb congener 34",
-          "title": "34",
+          "title": "PCB34",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_34",
+          "alias": "PCB34",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4841,12 +4841,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_35": {
-          "name": "PCB_35",
+        "PCB35": {
+          "name": "PCB35",
           "description": "pcb congener 35",
-          "title": "35",
+          "title": "PCB35",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_35",
+          "alias": "PCB35",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4855,12 +4855,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_36": {
-          "name": "PCB_36",
+        "PCB36": {
+          "name": "PCB36",
           "description": "pcb congener 36",
-          "title": "36",
+          "title": "PCB36",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_36",
+          "alias": "PCB36",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4869,12 +4869,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_37": {
-          "name": "PCB_37",
+        "PCB37": {
+          "name": "PCB37",
           "description": "pcb congener 37",
-          "title": "37",
+          "title": "PCB37",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_37",
+          "alias": "PCB37",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4883,12 +4883,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_38": {
-          "name": "PCB_38",
+        "PCB38": {
+          "name": "PCB38",
           "description": "pcb congener 38",
-          "title": "38",
+          "title": "PCB38",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_38",
+          "alias": "PCB38",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4897,12 +4897,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_39": {
-          "name": "PCB_39",
+        "PCB39": {
+          "name": "PCB39",
           "description": "pcb congener 39",
-          "title": "39",
+          "title": "PCB39",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_39",
+          "alias": "PCB39",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4911,12 +4911,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_40": {
-          "name": "PCB_40",
+        "PCB40": {
+          "name": "PCB40",
           "description": "pcb congener 40",
-          "title": "40",
+          "title": "PCB40",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_40",
+          "alias": "PCB40",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4925,12 +4925,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_41": {
-          "name": "PCB_41",
+        "PCB41": {
+          "name": "PCB41",
           "description": "pcb congener 41",
-          "title": "41",
+          "title": "PCB41",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_41",
+          "alias": "PCB41",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4939,12 +4939,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_42": {
-          "name": "PCB_42",
+        "PCB42": {
+          "name": "PCB42",
           "description": "pcb congener 42",
-          "title": "42",
+          "title": "PCB42",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_42",
+          "alias": "PCB42",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4953,12 +4953,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_43": {
-          "name": "PCB_43",
+        "PCB43": {
+          "name": "PCB43",
           "description": "pcb congener 43",
-          "title": "43",
+          "title": "PCB43",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_43",
+          "alias": "PCB43",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4967,12 +4967,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_44": {
-          "name": "PCB_44",
+        "PCB44": {
+          "name": "PCB44",
           "description": "pcb congener 44",
-          "title": "44",
+          "title": "PCB44",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_44",
+          "alias": "PCB44",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4981,12 +4981,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_45": {
-          "name": "PCB_45",
+        "PCB45": {
+          "name": "PCB45",
           "description": "pcb congener 45",
-          "title": "45",
+          "title": "PCB45",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_45",
+          "alias": "PCB45",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -4995,12 +4995,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_46": {
-          "name": "PCB_46",
+        "PCB46": {
+          "name": "PCB46",
           "description": "pcb congener 46",
-          "title": "46",
+          "title": "PCB46",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_46",
+          "alias": "PCB46",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5009,12 +5009,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_47": {
-          "name": "PCB_47",
+        "PCB47": {
+          "name": "PCB47",
           "description": "pcb congener 47",
-          "title": "47",
+          "title": "PCB47",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_47",
+          "alias": "PCB47",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5023,12 +5023,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_48": {
-          "name": "PCB_48",
+        "PCB48": {
+          "name": "PCB48",
           "description": "pcb congener 48",
-          "title": "48",
+          "title": "PCB48",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_48",
+          "alias": "PCB48",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5037,12 +5037,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_49": {
-          "name": "PCB_49",
+        "PCB49": {
+          "name": "PCB49",
           "description": "pcb congener 49",
-          "title": "49",
+          "title": "PCB49",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_49",
+          "alias": "PCB49",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5051,12 +5051,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_50": {
-          "name": "PCB_50",
+        "PCB50": {
+          "name": "PCB50",
           "description": "pcb congener 50",
-          "title": "50",
+          "title": "PCB50",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_50",
+          "alias": "PCB50",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5065,12 +5065,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_51": {
-          "name": "PCB_51",
+        "PCB51": {
+          "name": "PCB51",
           "description": "pcb congener 51",
-          "title": "51",
+          "title": "PCB51",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_51",
+          "alias": "PCB51",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5079,12 +5079,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_52": {
-          "name": "PCB_52",
+        "PCB52": {
+          "name": "PCB52",
           "description": "pcb congener 52",
-          "title": "52",
+          "title": "PCB52",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_52",
+          "alias": "PCB52",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5093,12 +5093,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_53": {
-          "name": "PCB_53",
+        "PCB53": {
+          "name": "PCB53",
           "description": "pcb congener 53",
-          "title": "53",
+          "title": "PCB53",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_53",
+          "alias": "PCB53",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5107,12 +5107,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_54": {
-          "name": "PCB_54",
+        "PCB54": {
+          "name": "PCB54",
           "description": "pcb congener 54",
-          "title": "54",
+          "title": "PCB54",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_54",
+          "alias": "PCB54",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5121,12 +5121,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_55": {
-          "name": "PCB_55",
+        "PCB55": {
+          "name": "PCB55",
           "description": "pcb congener 55",
-          "title": "55",
+          "title": "PCB55",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_55",
+          "alias": "PCB55",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5135,12 +5135,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_56": {
-          "name": "PCB_56",
+        "PCB56": {
+          "name": "PCB56",
           "description": "pcb congener 56",
-          "title": "56",
+          "title": "PCB56",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_56",
+          "alias": "PCB56",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5149,12 +5149,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_57": {
-          "name": "PCB_57",
+        "PCB57": {
+          "name": "PCB57",
           "description": "pcb congener 57",
-          "title": "57",
+          "title": "PCB57",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_57",
+          "alias": "PCB57",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5163,12 +5163,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_58": {
-          "name": "PCB_58",
+        "PCB58": {
+          "name": "PCB58",
           "description": "pcb congener 58",
-          "title": "58",
+          "title": "PCB58",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_58",
+          "alias": "PCB58",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5177,12 +5177,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_59": {
-          "name": "PCB_59",
+        "PCB59": {
+          "name": "PCB59",
           "description": "pcb congener 59",
-          "title": "59",
+          "title": "PCB59",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_59",
+          "alias": "PCB59",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5191,12 +5191,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_60": {
-          "name": "PCB_60",
+        "PCB60": {
+          "name": "PCB60",
           "description": "pcb congener 60",
-          "title": "60",
+          "title": "PCB60",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_60",
+          "alias": "PCB60",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5205,12 +5205,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_61": {
-          "name": "PCB_61",
+        "PCB61": {
+          "name": "PCB61",
           "description": "pcb congener 61",
-          "title": "61",
+          "title": "PCB61",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_61",
+          "alias": "PCB61",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5219,12 +5219,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_62": {
-          "name": "PCB_62",
+        "PCB62": {
+          "name": "PCB62",
           "description": "pcb congener 62",
-          "title": "62",
+          "title": "PCB62",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_62",
+          "alias": "PCB62",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5233,12 +5233,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_63": {
-          "name": "PCB_63",
+        "PCB63": {
+          "name": "PCB63",
           "description": "pcb congener 63",
-          "title": "63",
+          "title": "PCB63",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_63",
+          "alias": "PCB63",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5247,12 +5247,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_64": {
-          "name": "PCB_64",
+        "PCB64": {
+          "name": "PCB64",
           "description": "pcb congener 64",
-          "title": "64",
+          "title": "PCB64",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_64",
+          "alias": "PCB64",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5261,12 +5261,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_65": {
-          "name": "PCB_65",
+        "PCB65": {
+          "name": "PCB65",
           "description": "pcb congener 65",
-          "title": "65",
+          "title": "PCB65",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_65",
+          "alias": "PCB65",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5275,12 +5275,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_66": {
-          "name": "PCB_66",
+        "PCB66": {
+          "name": "PCB66",
           "description": "pcb congener 66",
-          "title": "66",
+          "title": "PCB66",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_66",
+          "alias": "PCB66",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5289,12 +5289,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_67": {
-          "name": "PCB_67",
+        "PCB67": {
+          "name": "PCB67",
           "description": "pcb congener 67",
-          "title": "67",
+          "title": "PCB67",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_67",
+          "alias": "PCB67",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5303,12 +5303,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_68": {
-          "name": "PCB_68",
+        "PCB68": {
+          "name": "PCB68",
           "description": "pcb congener 68",
-          "title": "68",
+          "title": "PCB68",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_68",
+          "alias": "PCB68",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5317,12 +5317,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_69": {
-          "name": "PCB_69",
+        "PCB69": {
+          "name": "PCB69",
           "description": "pcb congener 69",
-          "title": "69",
+          "title": "PCB69",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_69",
+          "alias": "PCB69",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5331,12 +5331,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_70": {
-          "name": "PCB_70",
+        "PCB70": {
+          "name": "PCB70",
           "description": "pcb congener 70",
-          "title": "70",
+          "title": "PCB70",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_70",
+          "alias": "PCB70",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5345,12 +5345,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_71": {
-          "name": "PCB_71",
+        "PCB71": {
+          "name": "PCB71",
           "description": "pcb congener 71",
-          "title": "71",
+          "title": "PCB71",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_71",
+          "alias": "PCB71",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5359,12 +5359,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_72": {
-          "name": "PCB_72",
+        "PCB72": {
+          "name": "PCB72",
           "description": "pcb congener 72",
-          "title": "72",
+          "title": "PCB72",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_72",
+          "alias": "PCB72",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5373,12 +5373,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_73": {
-          "name": "PCB_73",
+        "PCB73": {
+          "name": "PCB73",
           "description": "pcb congener 73",
-          "title": "73",
+          "title": "PCB73",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_73",
+          "alias": "PCB73",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5387,12 +5387,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_74": {
-          "name": "PCB_74",
+        "PCB74": {
+          "name": "PCB74",
           "description": "pcb congener 74",
-          "title": "74",
+          "title": "PCB74",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_74",
+          "alias": "PCB74",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5401,12 +5401,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_75": {
-          "name": "PCB_75",
+        "PCB75": {
+          "name": "PCB75",
           "description": "pcb congener 75",
-          "title": "75",
+          "title": "PCB75",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_75",
+          "alias": "PCB75",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5415,12 +5415,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_76": {
-          "name": "PCB_76",
+        "PCB76": {
+          "name": "PCB76",
           "description": "pcb congener 76",
-          "title": "76",
+          "title": "PCB76",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_76",
+          "alias": "PCB76",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5429,12 +5429,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_77": {
-          "name": "PCB_77",
+        "PCB77": {
+          "name": "PCB77",
           "description": "pcb congener 77",
-          "title": "77",
+          "title": "PCB77",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_77",
+          "alias": "PCB77",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5443,12 +5443,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_78": {
-          "name": "PCB_78",
+        "PCB78": {
+          "name": "PCB78",
           "description": "pcb congener 78",
-          "title": "78",
+          "title": "PCB78",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_78",
+          "alias": "PCB78",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5457,12 +5457,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_79": {
-          "name": "PCB_79",
+        "PCB79": {
+          "name": "PCB79",
           "description": "pcb congener 79",
-          "title": "79",
+          "title": "PCB79",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_79",
+          "alias": "PCB79",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5471,12 +5471,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_80": {
-          "name": "PCB_80",
+        "PCB80": {
+          "name": "PCB80",
           "description": "pcb congener 80",
-          "title": "80",
+          "title": "PCB80",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_80",
+          "alias": "PCB80",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5485,12 +5485,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_81": {
-          "name": "PCB_81",
+        "PCB81": {
+          "name": "PCB81",
           "description": "pcb congener 81",
-          "title": "81",
+          "title": "PCB81",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_81",
+          "alias": "PCB81",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5499,12 +5499,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_82": {
-          "name": "PCB_82",
+        "PCB82": {
+          "name": "PCB82",
           "description": "pcb congener 82",
-          "title": "82",
+          "title": "PCB82",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_82",
+          "alias": "PCB82",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5513,12 +5513,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_83": {
-          "name": "PCB_83",
+        "PCB83": {
+          "name": "PCB83",
           "description": "pcb congener 83",
-          "title": "83",
+          "title": "PCB83",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_83",
+          "alias": "PCB83",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5527,12 +5527,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_84": {
-          "name": "PCB_84",
+        "PCB84": {
+          "name": "PCB84",
           "description": "pcb congener 84",
-          "title": "84",
+          "title": "PCB84",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_84",
+          "alias": "PCB84",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5541,12 +5541,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_85": {
-          "name": "PCB_85",
+        "PCB85": {
+          "name": "PCB85",
           "description": "pcb congener 85",
-          "title": "85",
+          "title": "PCB85",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_85",
+          "alias": "PCB85",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5555,12 +5555,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_86": {
-          "name": "PCB_86",
+        "PCB86": {
+          "name": "PCB86",
           "description": "pcb congener 86",
-          "title": "86",
+          "title": "PCB86",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_86",
+          "alias": "PCB86",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5569,12 +5569,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_87": {
-          "name": "PCB_87",
+        "PCB87": {
+          "name": "PCB87",
           "description": "pcb congener 87",
-          "title": "87",
+          "title": "PCB87",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_87",
+          "alias": "PCB87",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5583,12 +5583,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_88": {
-          "name": "PCB_88",
+        "PCB88": {
+          "name": "PCB88",
           "description": "pcb congener 88",
-          "title": "88",
+          "title": "PCB88",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_88",
+          "alias": "PCB88",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5597,12 +5597,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_89": {
-          "name": "PCB_89",
+        "PCB89": {
+          "name": "PCB89",
           "description": "pcb congener 89",
-          "title": "89",
+          "title": "PCB89",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_89",
+          "alias": "PCB89",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5611,12 +5611,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_90": {
-          "name": "PCB_90",
+        "PCB90": {
+          "name": "PCB90",
           "description": "pcb congener 90",
-          "title": "90",
+          "title": "PCB90",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_90",
+          "alias": "PCB90",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5625,12 +5625,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_91": {
-          "name": "PCB_91",
+        "PCB91": {
+          "name": "PCB91",
           "description": "pcb congener 91",
-          "title": "91",
+          "title": "PCB91",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_91",
+          "alias": "PCB91",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5639,12 +5639,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_92": {
-          "name": "PCB_92",
+        "PCB92": {
+          "name": "PCB92",
           "description": "pcb congener 92",
-          "title": "92",
+          "title": "PCB92",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_92",
+          "alias": "PCB92",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5653,12 +5653,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_93": {
-          "name": "PCB_93",
+        "PCB93": {
+          "name": "PCB93",
           "description": "pcb congener 93",
-          "title": "93",
+          "title": "PCB93",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_93",
+          "alias": "PCB93",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5667,12 +5667,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_94": {
-          "name": "PCB_94",
+        "PCB94": {
+          "name": "PCB94",
           "description": "pcb congener 94",
-          "title": "94",
+          "title": "PCB94",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_94",
+          "alias": "PCB94",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5681,12 +5681,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_95": {
-          "name": "PCB_95",
+        "PCB95": {
+          "name": "PCB95",
           "description": "pcb congener 95",
-          "title": "95",
+          "title": "PCB95",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_95",
+          "alias": "PCB95",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5695,12 +5695,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_96": {
-          "name": "PCB_96",
+        "PCB96": {
+          "name": "PCB96",
           "description": "pcb congener 96",
-          "title": "96",
+          "title": "PCB96",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_96",
+          "alias": "PCB96",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5709,12 +5709,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_97": {
-          "name": "PCB_97",
+        "PCB97": {
+          "name": "PCB97",
           "description": "pcb congener 97",
-          "title": "97",
+          "title": "PCB97",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_97",
+          "alias": "PCB97",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5723,12 +5723,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_98": {
-          "name": "PCB_98",
+        "PCB98": {
+          "name": "PCB98",
           "description": "pcb congener 98",
-          "title": "98",
+          "title": "PCB98",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_98",
+          "alias": "PCB98",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5737,12 +5737,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_99": {
-          "name": "PCB_99",
+        "PCB99": {
+          "name": "PCB99",
           "description": "pcb congener 99",
-          "title": "99",
+          "title": "PCB99",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_99",
+          "alias": "PCB99",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5751,12 +5751,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_100": {
-          "name": "PCB_100",
+        "PCB100": {
+          "name": "PCB100",
           "description": "pcb congener 100",
-          "title": "100",
+          "title": "PCB100",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_100",
+          "alias": "PCB100",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5765,12 +5765,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_101": {
-          "name": "PCB_101",
+        "PCB101": {
+          "name": "PCB101",
           "description": "pcb congener 101",
-          "title": "101",
+          "title": "PCB101",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_101",
+          "alias": "PCB101",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5779,12 +5779,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_102": {
-          "name": "PCB_102",
+        "PCB102": {
+          "name": "PCB102",
           "description": "pcb congener 102",
-          "title": "102",
+          "title": "PCB102",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_102",
+          "alias": "PCB102",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5793,12 +5793,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_103": {
-          "name": "PCB_103",
+        "PCB103": {
+          "name": "PCB103",
           "description": "pcb congener 103",
-          "title": "103",
+          "title": "PCB103",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_103",
+          "alias": "PCB103",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5807,12 +5807,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_104": {
-          "name": "PCB_104",
+        "PCB104": {
+          "name": "PCB104",
           "description": "pcb congener 104",
-          "title": "104",
+          "title": "PCB104",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_104",
+          "alias": "PCB104",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5821,12 +5821,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_105": {
-          "name": "PCB_105",
+        "PCB105": {
+          "name": "PCB105",
           "description": "pcb congener 105",
-          "title": "105",
+          "title": "PCB105",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_105",
+          "alias": "PCB105",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5835,12 +5835,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_106": {
-          "name": "PCB_106",
+        "PCB106": {
+          "name": "PCB106",
           "description": "pcb congener 106",
-          "title": "106",
+          "title": "PCB106",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_106",
+          "alias": "PCB106",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5849,12 +5849,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_107": {
-          "name": "PCB_107",
+        "PCB107": {
+          "name": "PCB107",
           "description": "pcb congener 107",
-          "title": "107",
+          "title": "PCB107",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_107",
+          "alias": "PCB107",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5863,12 +5863,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_108": {
-          "name": "PCB_108",
+        "PCB108": {
+          "name": "PCB108",
           "description": "pcb congener 108",
-          "title": "108",
+          "title": "PCB108",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_108",
+          "alias": "PCB108",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5877,12 +5877,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_109": {
-          "name": "PCB_109",
+        "PCB109": {
+          "name": "PCB109",
           "description": "pcb congener 109",
-          "title": "109",
+          "title": "PCB109",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_109",
+          "alias": "PCB109",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5891,12 +5891,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_110": {
-          "name": "PCB_110",
+        "PCB110": {
+          "name": "PCB110",
           "description": "pcb congener 110",
-          "title": "110",
+          "title": "PCB110",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_110",
+          "alias": "PCB110",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5905,12 +5905,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_111": {
-          "name": "PCB_111",
+        "PCB111": {
+          "name": "PCB111",
           "description": "pcb congener 111",
-          "title": "111",
+          "title": "PCB111",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_111",
+          "alias": "PCB111",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5919,12 +5919,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_112": {
-          "name": "PCB_112",
+        "PCB112": {
+          "name": "PCB112",
           "description": "pcb congener 112",
-          "title": "112",
+          "title": "PCB112",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_112",
+          "alias": "PCB112",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5933,12 +5933,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_113": {
-          "name": "PCB_113",
+        "PCB113": {
+          "name": "PCB113",
           "description": "pcb congener 113",
-          "title": "113",
+          "title": "PCB113",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_113",
+          "alias": "PCB113",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5947,12 +5947,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_114": {
-          "name": "PCB_114",
+        "PCB114": {
+          "name": "PCB114",
           "description": "pcb congener 114",
-          "title": "114",
+          "title": "PCB114",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_114",
+          "alias": "PCB114",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5961,12 +5961,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_115": {
-          "name": "PCB_115",
+        "PCB115": {
+          "name": "PCB115",
           "description": "pcb congener 115",
-          "title": "115",
+          "title": "PCB115",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_115",
+          "alias": "PCB115",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5975,12 +5975,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_116": {
-          "name": "PCB_116",
+        "PCB116": {
+          "name": "PCB116",
           "description": "pcb congener 116",
-          "title": "116",
+          "title": "PCB116",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_116",
+          "alias": "PCB116",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -5989,12 +5989,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_117": {
-          "name": "PCB_117",
+        "PCB117": {
+          "name": "PCB117",
           "description": "pcb congener 117",
-          "title": "117",
+          "title": "PCB117",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_117",
+          "alias": "PCB117",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6003,12 +6003,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_118": {
-          "name": "PCB_118",
+        "PCB118": {
+          "name": "PCB118",
           "description": "pcb congener 118",
-          "title": "118",
+          "title": "PCB118",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_118",
+          "alias": "PCB118",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6017,12 +6017,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_119": {
-          "name": "PCB_119",
+        "PCB119": {
+          "name": "PCB119",
           "description": "pcb congener 119",
-          "title": "119",
+          "title": "PCB119",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_119",
+          "alias": "PCB119",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6031,12 +6031,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_120": {
-          "name": "PCB_120",
+        "PCB120": {
+          "name": "PCB120",
           "description": "pcb congener 120",
-          "title": "120",
+          "title": "PCB120",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_120",
+          "alias": "PCB120",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6045,12 +6045,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_121": {
-          "name": "PCB_121",
+        "PCB121": {
+          "name": "PCB121",
           "description": "pcb congener 121",
-          "title": "121",
+          "title": "PCB121",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_121",
+          "alias": "PCB121",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6059,12 +6059,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_122": {
-          "name": "PCB_122",
+        "PCB122": {
+          "name": "PCB122",
           "description": "pcb congener 122",
-          "title": "122",
+          "title": "PCB122",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_122",
+          "alias": "PCB122",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6073,12 +6073,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_123": {
-          "name": "PCB_123",
+        "PCB123": {
+          "name": "PCB123",
           "description": "pcb congener 123",
-          "title": "123",
+          "title": "PCB123",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_123",
+          "alias": "PCB123",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6087,12 +6087,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_124": {
-          "name": "PCB_124",
+        "PCB124": {
+          "name": "PCB124",
           "description": "pcb congener 124",
-          "title": "124",
+          "title": "PCB124",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_124",
+          "alias": "PCB124",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6101,12 +6101,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_125": {
-          "name": "PCB_125",
+        "PCB125": {
+          "name": "PCB125",
           "description": "pcb congener 125",
-          "title": "125",
+          "title": "PCB125",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_125",
+          "alias": "PCB125",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6115,12 +6115,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_126": {
-          "name": "PCB_126",
+        "PCB126": {
+          "name": "PCB126",
           "description": "pcb congener 126",
-          "title": "126",
+          "title": "PCB126",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_126",
+          "alias": "PCB126",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6129,12 +6129,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_127": {
-          "name": "PCB_127",
+        "PCB127": {
+          "name": "PCB127",
           "description": "pcb congener 127",
-          "title": "127",
+          "title": "PCB127",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_127",
+          "alias": "PCB127",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6143,12 +6143,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_128": {
-          "name": "PCB_128",
+        "PCB128": {
+          "name": "PCB128",
           "description": "pcb congener 128",
-          "title": "128",
+          "title": "PCB128",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_128",
+          "alias": "PCB128",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6157,12 +6157,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_129": {
-          "name": "PCB_129",
+        "PCB129": {
+          "name": "PCB129",
           "description": "pcb congener 129",
-          "title": "129",
+          "title": "PCB129",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_129",
+          "alias": "PCB129",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6171,12 +6171,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_130": {
-          "name": "PCB_130",
+        "PCB130": {
+          "name": "PCB130",
           "description": "pcb congener 130",
-          "title": "130",
+          "title": "PCB130",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_130",
+          "alias": "PCB130",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6185,12 +6185,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_131": {
-          "name": "PCB_131",
+        "PCB131": {
+          "name": "PCB131",
           "description": "pcb congener 131",
-          "title": "131",
+          "title": "PCB131",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_131",
+          "alias": "PCB131",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6199,12 +6199,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_132": {
-          "name": "PCB_132",
+        "PCB132": {
+          "name": "PCB132",
           "description": "pcb congener 132",
-          "title": "132",
+          "title": "PCB132",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_132",
+          "alias": "PCB132",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6213,12 +6213,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_133": {
-          "name": "PCB_133",
+        "PCB133": {
+          "name": "PCB133",
           "description": "pcb congener 133",
-          "title": "133",
+          "title": "PCB133",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_133",
+          "alias": "PCB133",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6227,12 +6227,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_134": {
-          "name": "PCB_134",
+        "PCB134": {
+          "name": "PCB134",
           "description": "pcb congener 134",
-          "title": "134",
+          "title": "PCB134",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_134",
+          "alias": "PCB134",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6241,12 +6241,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_135": {
-          "name": "PCB_135",
+        "PCB135": {
+          "name": "PCB135",
           "description": "pcb congener 135",
-          "title": "135",
+          "title": "PCB135",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_135",
+          "alias": "PCB135",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6255,12 +6255,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_136": {
-          "name": "PCB_136",
+        "PCB136": {
+          "name": "PCB136",
           "description": "pcb congener 136",
-          "title": "136",
+          "title": "PCB136",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_136",
+          "alias": "PCB136",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6269,12 +6269,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_137": {
-          "name": "PCB_137",
+        "PCB137": {
+          "name": "PCB137",
           "description": "pcb congener 137",
-          "title": "137",
+          "title": "PCB137",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_137",
+          "alias": "PCB137",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6283,12 +6283,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_138": {
-          "name": "PCB_138",
+        "PCB138": {
+          "name": "PCB138",
           "description": "pcb congener 138",
-          "title": "138",
+          "title": "PCB138",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_138",
+          "alias": "PCB138",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6297,12 +6297,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_139": {
-          "name": "PCB_139",
+        "PCB139": {
+          "name": "PCB139",
           "description": "pcb congener 139",
-          "title": "139",
+          "title": "PCB139",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_139",
+          "alias": "PCB139",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6311,12 +6311,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_140": {
-          "name": "PCB_140",
+        "PCB140": {
+          "name": "PCB140",
           "description": "pcb congener 140",
-          "title": "140",
+          "title": "PCB140",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_140",
+          "alias": "PCB140",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6325,12 +6325,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_141": {
-          "name": "PCB_141",
+        "PCB141": {
+          "name": "PCB141",
           "description": "pcb congener 141",
-          "title": "141",
+          "title": "PCB141",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_141",
+          "alias": "PCB141",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6339,12 +6339,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_142": {
-          "name": "PCB_142",
+        "PCB142": {
+          "name": "PCB142",
           "description": "pcb congener 142",
-          "title": "142",
+          "title": "PCB142",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_142",
+          "alias": "PCB142",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6353,12 +6353,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_143": {
-          "name": "PCB_143",
+        "PCB143": {
+          "name": "PCB143",
           "description": "pcb congener 143",
-          "title": "143",
+          "title": "PCB143",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_143",
+          "alias": "PCB143",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6367,12 +6367,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_144": {
-          "name": "PCB_144",
+        "PCB144": {
+          "name": "PCB144",
           "description": "pcb congener 144",
-          "title": "144",
+          "title": "PCB144",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_144",
+          "alias": "PCB144",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6381,12 +6381,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_145": {
-          "name": "PCB_145",
+        "PCB145": {
+          "name": "PCB145",
           "description": "pcb congener 145",
-          "title": "145",
+          "title": "PCB145",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_145",
+          "alias": "PCB145",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6395,12 +6395,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_146": {
-          "name": "PCB_146",
+        "PCB146": {
+          "name": "PCB146",
           "description": "pcb congener 146",
-          "title": "146",
+          "title": "PCB146",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_146",
+          "alias": "PCB146",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6409,12 +6409,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_147": {
-          "name": "PCB_147",
+        "PCB147": {
+          "name": "PCB147",
           "description": "pcb congener 147",
-          "title": "147",
+          "title": "PCB147",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_147",
+          "alias": "PCB147",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6423,12 +6423,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_148": {
-          "name": "PCB_148",
+        "PCB148": {
+          "name": "PCB148",
           "description": "pcb congener 148",
-          "title": "148",
+          "title": "PCB148",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_148",
+          "alias": "PCB148",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6437,12 +6437,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_149": {
-          "name": "PCB_149",
+        "PCB149": {
+          "name": "PCB149",
           "description": "pcb congener 149",
-          "title": "149",
+          "title": "PCB149",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_149",
+          "alias": "PCB149",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6451,12 +6451,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_150": {
-          "name": "PCB_150",
+        "PCB150": {
+          "name": "PCB150",
           "description": "pcb congener 150",
-          "title": "150",
+          "title": "PCB150",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_150",
+          "alias": "PCB150",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6465,12 +6465,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_151": {
-          "name": "PCB_151",
+        "PCB151": {
+          "name": "PCB151",
           "description": "pcb congener 151",
-          "title": "151",
+          "title": "PCB151",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_151",
+          "alias": "PCB151",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6479,12 +6479,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_152": {
-          "name": "PCB_152",
+        "PCB152": {
+          "name": "PCB152",
           "description": "pcb congener 152",
-          "title": "152",
+          "title": "PCB152",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_152",
+          "alias": "PCB152",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6493,12 +6493,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_153": {
-          "name": "PCB_153",
+        "PCB153": {
+          "name": "PCB153",
           "description": "pcb congener 153",
-          "title": "153",
+          "title": "PCB153",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_153",
+          "alias": "PCB153",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6507,12 +6507,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_154": {
-          "name": "PCB_154",
+        "PCB154": {
+          "name": "PCB154",
           "description": "pcb congener 154",
-          "title": "154",
+          "title": "PCB154",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_154",
+          "alias": "PCB154",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6521,12 +6521,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_155": {
-          "name": "PCB_155",
+        "PCB155": {
+          "name": "PCB155",
           "description": "pcb congener 155",
-          "title": "155",
+          "title": "PCB155",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_155",
+          "alias": "PCB155",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6535,12 +6535,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_156": {
-          "name": "PCB_156",
+        "PCB156": {
+          "name": "PCB156",
           "description": "pcb congener 156",
-          "title": "156",
+          "title": "PCB156",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_156",
+          "alias": "PCB156",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6549,12 +6549,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_157": {
-          "name": "PCB_157",
+        "PCB157": {
+          "name": "PCB157",
           "description": "pcb congener 157",
-          "title": "157",
+          "title": "PCB157",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_157",
+          "alias": "PCB157",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6563,12 +6563,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_158": {
-          "name": "PCB_158",
+        "PCB158": {
+          "name": "PCB158",
           "description": "pcb congener 158",
-          "title": "158",
+          "title": "PCB158",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_158",
+          "alias": "PCB158",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6577,12 +6577,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_159": {
-          "name": "PCB_159",
+        "PCB159": {
+          "name": "PCB159",
           "description": "pcb congener 159",
-          "title": "159",
+          "title": "PCB159",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_159",
+          "alias": "PCB159",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6591,12 +6591,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_160": {
-          "name": "PCB_160",
+        "PCB160": {
+          "name": "PCB160",
           "description": "pcb congener 160",
-          "title": "160",
+          "title": "PCB160",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_160",
+          "alias": "PCB160",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6605,12 +6605,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_161": {
-          "name": "PCB_161",
+        "PCB161": {
+          "name": "PCB161",
           "description": "pcb congener 161",
-          "title": "161",
+          "title": "PCB161",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_161",
+          "alias": "PCB161",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6619,12 +6619,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_162": {
-          "name": "PCB_162",
+        "PCB162": {
+          "name": "PCB162",
           "description": "pcb congener 162",
-          "title": "162",
+          "title": "PCB162",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_162",
+          "alias": "PCB162",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6633,12 +6633,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_163": {
-          "name": "PCB_163",
+        "PCB163": {
+          "name": "PCB163",
           "description": "pcb congener 163",
-          "title": "163",
+          "title": "PCB163",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_163",
+          "alias": "PCB163",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6647,12 +6647,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_164": {
-          "name": "PCB_164",
+        "PCB164": {
+          "name": "PCB164",
           "description": "pcb congener 164",
-          "title": "164",
+          "title": "PCB164",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_164",
+          "alias": "PCB164",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6661,12 +6661,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_165": {
-          "name": "PCB_165",
+        "PCB165": {
+          "name": "PCB165",
           "description": "pcb congener 165",
-          "title": "165",
+          "title": "PCB165",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_165",
+          "alias": "PCB165",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6675,12 +6675,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_166": {
-          "name": "PCB_166",
+        "PCB166": {
+          "name": "PCB166",
           "description": "pcb congener 166",
-          "title": "166",
+          "title": "PCB166",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_166",
+          "alias": "PCB166",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6689,12 +6689,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_167": {
-          "name": "PCB_167",
+        "PCB167": {
+          "name": "PCB167",
           "description": "pcb congener 167",
-          "title": "167",
+          "title": "PCB167",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_167",
+          "alias": "PCB167",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6703,12 +6703,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_168": {
-          "name": "PCB_168",
+        "PCB168": {
+          "name": "PCB168",
           "description": "pcb congener 168",
-          "title": "168",
+          "title": "PCB168",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_168",
+          "alias": "PCB168",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6717,12 +6717,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_169": {
-          "name": "PCB_169",
+        "PCB169": {
+          "name": "PCB169",
           "description": "pcb congener 169",
-          "title": "169",
+          "title": "PCB169",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_169",
+          "alias": "PCB169",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6731,12 +6731,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_170": {
-          "name": "PCB_170",
+        "PCB170": {
+          "name": "PCB170",
           "description": "pcb congener 170",
-          "title": "170",
+          "title": "PCB170",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_170",
+          "alias": "PCB170",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6745,12 +6745,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_171": {
-          "name": "PCB_171",
+        "PCB171": {
+          "name": "PCB171",
           "description": "pcb congener 171",
-          "title": "171",
+          "title": "PCB171",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_171",
+          "alias": "PCB171",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6759,12 +6759,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_172": {
-          "name": "PCB_172",
+        "PCB172": {
+          "name": "PCB172",
           "description": "pcb congener 172",
-          "title": "172",
+          "title": "PCB172",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_172",
+          "alias": "PCB172",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6773,12 +6773,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_173": {
-          "name": "PCB_173",
+        "PCB173": {
+          "name": "PCB173",
           "description": "pcb congener 173",
-          "title": "173",
+          "title": "PCB173",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_173",
+          "alias": "PCB173",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6787,12 +6787,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_174": {
-          "name": "PCB_174",
+        "PCB174": {
+          "name": "PCB174",
           "description": "pcb congener 174",
-          "title": "174",
+          "title": "PCB174",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_174",
+          "alias": "PCB174",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6801,12 +6801,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_175": {
-          "name": "PCB_175",
+        "PCB175": {
+          "name": "PCB175",
           "description": "pcb congener 175",
-          "title": "175",
+          "title": "PCB175",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_175",
+          "alias": "PCB175",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6815,12 +6815,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_176": {
-          "name": "PCB_176",
+        "PCB176": {
+          "name": "PCB176",
           "description": "pcb congener 176",
-          "title": "176",
+          "title": "PCB176",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_176",
+          "alias": "PCB176",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6829,12 +6829,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_177": {
-          "name": "PCB_177",
+        "PCB177": {
+          "name": "PCB177",
           "description": "pcb congener 177",
-          "title": "177",
+          "title": "PCB177",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_177",
+          "alias": "PCB177",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6843,12 +6843,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_178": {
-          "name": "PCB_178",
+        "PCB178": {
+          "name": "PCB178",
           "description": "pcb congener 178",
-          "title": "178",
+          "title": "PCB178",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_178",
+          "alias": "PCB178",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6857,12 +6857,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_179": {
-          "name": "PCB_179",
+        "PCB179": {
+          "name": "PCB179",
           "description": "pcb congener 179",
-          "title": "179",
+          "title": "PCB179",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_179",
+          "alias": "PCB179",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6871,12 +6871,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_180": {
-          "name": "PCB_180",
+        "PCB180": {
+          "name": "PCB180",
           "description": "pcb congener 180",
-          "title": "180",
+          "title": "PCB180",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_180",
+          "alias": "PCB180",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6885,12 +6885,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_181": {
-          "name": "PCB_181",
+        "PCB181": {
+          "name": "PCB181",
           "description": "pcb congener 181",
-          "title": "181",
+          "title": "PCB181",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_181",
+          "alias": "PCB181",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6899,12 +6899,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_182": {
-          "name": "PCB_182",
+        "PCB182": {
+          "name": "PCB182",
           "description": "pcb congener 182",
-          "title": "182",
+          "title": "PCB182",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_182",
+          "alias": "PCB182",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6913,12 +6913,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_183": {
-          "name": "PCB_183",
+        "PCB183": {
+          "name": "PCB183",
           "description": "pcb congener 183",
-          "title": "183",
+          "title": "PCB183",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_183",
+          "alias": "PCB183",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6927,12 +6927,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_184": {
-          "name": "PCB_184",
+        "PCB184": {
+          "name": "PCB184",
           "description": "pcb congener 184",
-          "title": "184",
+          "title": "PCB184",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_184",
+          "alias": "PCB184",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6941,12 +6941,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_185": {
-          "name": "PCB_185",
+        "PCB185": {
+          "name": "PCB185",
           "description": "pcb congener 185",
-          "title": "185",
+          "title": "PCB185",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_185",
+          "alias": "PCB185",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6955,12 +6955,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_186": {
-          "name": "PCB_186",
+        "PCB186": {
+          "name": "PCB186",
           "description": "pcb congener 186",
-          "title": "186",
+          "title": "PCB186",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_186",
+          "alias": "PCB186",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6969,12 +6969,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_187": {
-          "name": "PCB_187",
+        "PCB187": {
+          "name": "PCB187",
           "description": "pcb congener 187",
-          "title": "187",
+          "title": "PCB187",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_187",
+          "alias": "PCB187",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6983,12 +6983,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_188": {
-          "name": "PCB_188",
+        "PCB188": {
+          "name": "PCB188",
           "description": "pcb congener 188",
-          "title": "188",
+          "title": "PCB188",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_188",
+          "alias": "PCB188",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -6997,12 +6997,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_189": {
-          "name": "PCB_189",
+        "PCB189": {
+          "name": "PCB189",
           "description": "pcb congener 189",
-          "title": "189",
+          "title": "PCB189",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_189",
+          "alias": "PCB189",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7011,12 +7011,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_190": {
-          "name": "PCB_190",
+        "PCB190": {
+          "name": "PCB190",
           "description": "pcb congener 190",
-          "title": "190",
+          "title": "PCB190",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_190",
+          "alias": "PCB190",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7025,12 +7025,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_191": {
-          "name": "PCB_191",
+        "PCB191": {
+          "name": "PCB191",
           "description": "pcb congener 191",
-          "title": "191",
+          "title": "PCB191",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_191",
+          "alias": "PCB191",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7039,12 +7039,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_192": {
-          "name": "PCB_192",
+        "PCB192": {
+          "name": "PCB192",
           "description": "pcb congener 192",
-          "title": "192",
+          "title": "PCB192",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_192",
+          "alias": "PCB192",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7053,12 +7053,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_193": {
-          "name": "PCB_193",
+        "PCB193": {
+          "name": "PCB193",
           "description": "pcb congener 193",
-          "title": "193",
+          "title": "PCB193",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_193",
+          "alias": "PCB193",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7067,12 +7067,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_194": {
-          "name": "PCB_194",
+        "PCB194": {
+          "name": "PCB194",
           "description": "pcb congener 194",
-          "title": "194",
+          "title": "PCB194",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_194",
+          "alias": "PCB194",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7081,12 +7081,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_195": {
-          "name": "PCB_195",
+        "PCB195": {
+          "name": "PCB195",
           "description": "pcb congener 195",
-          "title": "195",
+          "title": "PCB195",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_195",
+          "alias": "PCB195",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7095,12 +7095,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_196": {
-          "name": "PCB_196",
+        "PCB196": {
+          "name": "PCB196",
           "description": "pcb congener 196",
-          "title": "196",
+          "title": "PCB196",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_196",
+          "alias": "PCB196",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7109,12 +7109,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_197": {
-          "name": "PCB_197",
+        "PCB197": {
+          "name": "PCB197",
           "description": "pcb congener 197",
-          "title": "197",
+          "title": "PCB197",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_197",
+          "alias": "PCB197",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7123,12 +7123,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_198": {
-          "name": "PCB_198",
+        "PCB198": {
+          "name": "PCB198",
           "description": "pcb congener 198",
-          "title": "198",
+          "title": "PCB198",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_198",
+          "alias": "PCB198",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7137,12 +7137,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_199": {
-          "name": "PCB_199",
+        "PCB199": {
+          "name": "PCB199",
           "description": "pcb congener 199",
-          "title": "199",
+          "title": "PCB199",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_199",
+          "alias": "PCB199",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7151,12 +7151,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_200": {
-          "name": "PCB_200",
+        "PCB200": {
+          "name": "PCB200",
           "description": "pcb congener 200",
-          "title": "200",
+          "title": "PCB200",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_200",
+          "alias": "PCB200",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7165,12 +7165,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_201": {
-          "name": "PCB_201",
+        "PCB201": {
+          "name": "PCB201",
           "description": "pcb congener 201",
-          "title": "201",
+          "title": "PCB201",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_201",
+          "alias": "PCB201",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7179,12 +7179,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_202": {
-          "name": "PCB_202",
+        "PCB202": {
+          "name": "PCB202",
           "description": "pcb congener 202",
-          "title": "202",
+          "title": "PCB202",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_202",
+          "alias": "PCB202",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7193,12 +7193,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_203": {
-          "name": "PCB_203",
+        "PCB203": {
+          "name": "PCB203",
           "description": "pcb congener 203",
-          "title": "203",
+          "title": "PCB203",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_203",
+          "alias": "PCB203",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7207,12 +7207,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_204": {
-          "name": "PCB_204",
+        "PCB204": {
+          "name": "PCB204",
           "description": "pcb congener 204",
-          "title": "204",
+          "title": "PCB204",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_204",
+          "alias": "PCB204",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7221,12 +7221,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_205": {
-          "name": "PCB_205",
+        "PCB205": {
+          "name": "PCB205",
           "description": "pcb congener 205",
-          "title": "205",
+          "title": "PCB205",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_205",
+          "alias": "PCB205",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7235,12 +7235,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_206": {
-          "name": "PCB_206",
+        "PCB206": {
+          "name": "PCB206",
           "description": "pcb congener 206",
-          "title": "206",
+          "title": "PCB206",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_206",
+          "alias": "PCB206",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7249,12 +7249,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_207": {
-          "name": "PCB_207",
+        "PCB207": {
+          "name": "PCB207",
           "description": "pcb congener 207",
-          "title": "207",
+          "title": "PCB207",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_207",
+          "alias": "PCB207",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7263,12 +7263,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_208": {
-          "name": "PCB_208",
+        "PCB208": {
+          "name": "PCB208",
           "description": "pcb congener 208",
-          "title": "208",
+          "title": "PCB208",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_208",
+          "alias": "PCB208",
           "owner": "Project1",
           "domain_of": [
             "Project1"
@@ -7277,12 +7277,12 @@
           "required": false,
           "minimum_value": 0
         },
-        "PCB_209": {
-          "name": "PCB_209",
+        "PCB209": {
+          "name": "PCB209",
           "description": "pcb congener 209",
-          "title": "209",
+          "title": "PCB209",
           "from_schema": "https://example.org/Project1",
-          "alias": "PCB_209",
+          "alias": "PCB209",
           "owner": "Project1",
           "domain_of": [
             "Project1"
